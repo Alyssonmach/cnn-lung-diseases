@@ -14,38 +14,66 @@ def data_download(link, file_name):
     
     return None 
 
-def organize_csv(csv_file):
-    '''organizando dataframe para treinamento em rede neural convolucional'''
-    
-    # carregando o dataframe
-    dataframe = pd.read_csv(csv_file)
-    
-    # renomeando alguns colunas 
-    dataframe = dataframe.rename(columns = {'Finding Labels': 'finding_labels', 'Patient ID': 'patient_id'})
-    
-    # removendo colunas desnecessárias na etapa de treinamento 
+def organize_csv(dataframe):
+
+    # renomeando a coluna que rotula a radiografia  
+    dataframe = dataframe.rename(columns = {'Finding Labels': 'finding_labels'})
+    # removendo colunas desnecessárias para o aprendizado do algoritmo
     dataframe = dataframe.drop(columns = ['Follow-up #', 'Patient Age', 'Patient Gender', 'View Position',
-                                          'OriginalImage[Width', 'Height]', 'OriginalImagePixelSpacing[x', 'y]']) 
-    
+                                          'OriginalImage[Width', 'Height]', 'OriginalImagePixelSpacing[x', 'y]',
+                                          'Patient ID']) 
+  
     # mantendo os dados consistentes com cada um dos rótulos  
     dataframe = dataframe[(dataframe.finding_labels == 'No Finding') |
                           (dataframe.finding_labels == 'Atelectasis') |
-                          (dataframe.finding_labels == 'Cardiomegaly') |
                           (dataframe.finding_labels == 'Consolidation') |
                           (dataframe.finding_labels == 'Edema') |
                           (dataframe.finding_labels == 'Effusion') |
                           (dataframe.finding_labels == 'Emphysema') |
                           (dataframe.finding_labels == 'Fibrosis') |
-                          (dataframe.finding_labels == 'Hernia') |
                           (dataframe.finding_labels == 'Infiltration') |
-                          (dataframe.finding_labels == 'Mass') |
                           (dataframe.finding_labels == 'Nodule') |
                           (dataframe.finding_labels == 'Pleural_Thickening') |
                           (dataframe.finding_labels == 'Pneumonia') |
                           (dataframe.finding_labels == 'Pneumothorax')]
-    dataframe = pd.get_dummies(data = dataframe, prefix = '', columns = ['finding_labels'])
-    
-    return dataframe
+
+    # selecionando os casos anormais  
+    abnormal = list(dataframe[(dataframe.finding_labels == 'Atelectasis') |
+                              (dataframe.finding_labels == 'Consolidation') |
+                              (dataframe.finding_labels == 'Edema') |
+                              (dataframe.finding_labels == 'Effusion') |
+                              (dataframe.finding_labels == 'Emphysema') |
+                              (dataframe.finding_labels == 'Fibrosis') |
+                              (dataframe.finding_labels == 'Infiltration') |
+                              (dataframe.finding_labels == 'Nodule') |
+                              (dataframe.finding_labels == 'Pleural_Thickening') |
+                              (dataframe.finding_labels == 'Pneumonia') |
+                              (dataframe.finding_labels == 'Pneumothorax')].index)
+  
+    # selecionando os casos normais 
+    normal = list(dataframe[(dataframe.finding_labels == 'No Finding')].index) 
+
+    # rotulando os casos em que foi encontrando alguma anormalidade na radiografia
+    abnormal = dataframe.loc[abnormal, :]
+    abnormal['labels'] = 1
+
+    # rotulando os casos em que não foi encontrado nenhuma anormalidade 
+    normal = dataframe.loc[normal, :]
+    normal['labels'] = 0
+  
+    # reduzindo a quantidade de radiografias normais para balancear o conjunto de dados  
+    normal_, _ = train_test_split(normal, test_size = 0.65, random_state = 42)
+
+    # concatenando os dataframes com casos normais e anormais 
+    dataframe = pd.concat([normal, abnormalities])
+
+    # removendo coluna desnecessária 
+    dataframe = dataframe.drop(columns = ['finding_labels'])
+
+    # misturando todos os dados do dataframe e reiniciando os valores dos índices 
+    dataframe = dataframe.sample(frac = 1, axis = 0, random_state = 42).reset_index(drop=True)
+
+    return (list(dataframe['Image Index']), list(dataframe['labels']))
 
 def download_images():
     '''baixando as imagens do servidor'''
