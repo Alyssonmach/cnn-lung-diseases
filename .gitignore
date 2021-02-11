@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+average-weights-testing/average-weights.ipynb
+average-weights-testing/mnist-data1.ipynb
+average-weights-testing/mnist-data1/saved_model.pb
+average-weights-testing/mnist-data1/variables/variables.data-00000-of-00001
+average-weights-testing/mnist-data1/variables/variables.index
+average-weights-testing/mnist-data2.ipynb
+average-weights-testing/mnist-data2/saved_model.pb
+average-weights-testing/mnist-data2/variables/variables.data-00000-of-00001
+average-weights-testing/mnist-data2/variables/variables.index
