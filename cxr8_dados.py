@@ -14,8 +14,8 @@ def data_download(link, file_name):
     
     return None 
 
-def organize_csv(dataframe):
-
+def organize_csv(file_name):
+    
     # renomeando a coluna que rotula a radiografia  
     dataframe = dataframe.rename(columns = {'Finding Labels': 'finding_labels'})
     # removendo colunas desnecessárias para o aprendizado do algoritmo
