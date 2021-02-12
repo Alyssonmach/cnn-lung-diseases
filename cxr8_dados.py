@@ -19,7 +19,7 @@ def organize_csv(file_name):
     # colocando os dados do arquivo csv em um dataframe
     dataframe = pd.read_csv(file_name)
     
-    # renomeando a coluna que rotula a radiografia  
+    # renomeando a coluna que rotula as radiografias 
     dataframe = dataframe.rename(columns = {'Finding Labels': 'finding_labels'})
     # removendo colunas desnecessárias para o aprendizado do algoritmo
     dataframe = dataframe.drop(columns = ['Follow-up #', 'Patient Age', 'Patient Gender', 'View Position',
@@ -65,10 +65,10 @@ def organize_csv(file_name):
     normal['labels'] = 0
   
     # reduzindo a quantidade de radiografias normais para balancear o conjunto de dados  
-    normal_, _ = train_test_split(normal, test_size = 0.65, random_state = 42)
+    normal, _ = train_test_split(normal, test_size = 0.65, random_state = 42)
 
     # concatenando os dataframes com casos normais e anormais 
-    dataframe = pd.concat([normal, abnormalities])
+    dataframe = pd.concat([normal, abnormal])
 
     # removendo coluna desnecessária 
     dataframe = dataframe.drop(columns = ['finding_labels'])
@@ -76,7 +76,7 @@ def organize_csv(file_name):
     # misturando todos os dados do dataframe e reiniciando os valores dos índices 
     dataframe = dataframe.sample(frac = 1, axis = 0, random_state = 42).reset_index(drop=True)
 
-    return (list(dataframe['Image Index']), list(dataframe['labels']))
+    return dataframe
 
 def download_images():
     '''baixando as imagens do servidor'''
@@ -109,14 +109,10 @@ def download_images():
 def train_validation_test_split(dataframe):
     '''particionando os dados em treinamento, validação e teste'''
     
-    # remoção de quantidades exagerageradas com rótulos normais (desbalanceamento de dados) 
-    rowns = dataframe.loc[(dataframe['_No Finding'] == 1)].index
-    dataframe = dataframe.drop(rowns[5000:], axis = 0)
-    
     # particionando os dados em treinamento, validação e teste  
-    train_df, test_df = train_test_split(dataframe, test_size = 0.1, random_state = 42)
-    train_df, validation_df = train_test_split(train_df, test_size = 0.1, random_state = 42)
+    train_df, test_df = train_test_split(dataframe, test_size = 0.1, stratify = dataframe['labels'], random_state = 42)
+    train_df, validation_df = train_test_split(train_df, test_size = 0.1, stratify = train_df['labels'], random_state = 42)
     
-    return train_df, validation_df, test_df
+    return train_df, validation_df, test_df 
 
 
