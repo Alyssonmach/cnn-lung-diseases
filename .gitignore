@@ -137,3 +137,4 @@ average-weights-testing/mnist-data2/saved_model.pb
 average-weights-testing/mnist-data2/variables/variables.data-00000-of-00001
 average-weights-testing/mnist-data2/variables/variables.index
 datasets/*
+jupyter-notebooks/transferlearning_weights.hdf5
