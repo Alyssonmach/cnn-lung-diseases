@@ -63,9 +63,6 @@ def organize_csv(file_name):
     # rotulando os casos em que não foi encontrado nenhuma anormalidade 
     normal = dataframe.loc[normal, :]
     normal['labels'] = 0
-  
-    # reduzindo a quantidade de radiografias normais para balancear o conjunto de dados  
-    normal, _ = train_test_split(normal, test_size = 0.65, random_state = 42)
 
     # concatenando os dataframes com casos normais e anormais 
     dataframe = pd.concat([normal, abnormal])
@@ -76,7 +73,7 @@ def organize_csv(file_name):
     # misturando todos os dados do dataframe e reiniciando os valores dos índices 
     dataframe = dataframe.sample(frac = 1, axis = 0, random_state = 42).reset_index(drop=True)
 
-    return dataframe
+    return dataframe, (len(normal), len(abnormal))
 
 def download_images():
     '''baixando as imagens do servidor'''
