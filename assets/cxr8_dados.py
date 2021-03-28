@@ -107,7 +107,7 @@ def train_validation_test_split(dataframe):
     '''particionando os dados em treinamento, validação e teste'''
     
     # particionando os dados em treinamento, validação e teste  
-    train_df, test_df = train_test_split(dataframe, test_size = 0.02, stratify = dataframe['labels'], random_state = 42)
+    train_df, test_df = train_test_split(dataframe, test_size = 0.04, stratify = dataframe['labels'], random_state = 42)
     train_df, validation_df = train_test_split(train_df, test_size = 0.02, stratify = train_df['labels'], random_state = 42)
     
     return train_df, validation_df, test_df 
