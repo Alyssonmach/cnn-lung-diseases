@@ -67,9 +67,6 @@ def organize_csv(file_name):
     # concatenando os dataframes com casos normais e anormais 
     dataframe = pd.concat([normal, abnormal])
 
-    # removendo coluna desnecessária 
-    dataframe = dataframe.drop(columns = ['finding_labels'])
-
     # misturando todos os dados do dataframe e reiniciando os valores dos índices 
     dataframe = dataframe.sample(frac = 1, axis = 0, random_state = 42).reset_index(drop=True)
 
