@@ -1,0 +1,1062 @@
+,image_path,class_name,target
+21213,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e160b2d6fc7e3322006bb8bb079ef418.jpg,No finding,normal
+10991,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d1713f5cf5838c1592e5f712b5d4928e.jpg,Pulmonary fibrosis,abnormal
+4698,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e583b6c45b5622f1e714f57521a22a30.jpg,Pleural thickening,abnormal
+3753,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1e957456099a37360a9f2c80f536d518.jpg,No finding,normal
+32148,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d4358555ad3558a26d3291749e7b251a.jpg,No finding,normal
+14007,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/77eeda623bcc59af35303206f55e88a1.jpg,No finding,normal
+24524,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c8447ce02d73c505a90a9c7af8c83ce.jpg,Lung Opacity,abnormal
+16058,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/39b089e6b4b6c7ed3a6dc4c176e82ffb.jpg,No finding,normal
+1764,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a2480b9f63cc65e052dc0b9ad19c866e.jpg,Nodule/Mass,abnormal
+2818,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3c5e8ef3325c38ca09657a9ea34859cc.jpg,No finding,normal
+17343,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/832b363404bcd103f05b807b7c3c81db.jpg,No finding,normal
+25694,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/98c0a9311b4bf87ee2468ec62ce055e4.jpg,No finding,normal
+28537,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/54bbf2f7e2e8ac123263b1688f85213c.jpg,No finding,normal
+4308,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a4b41309551add1836dd1f0e96e7c594.jpg,Nodule/Mass,abnormal
+8300,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b1c50f14b8ed2fe9d3478b115600eee3.jpg,No finding,normal
+8033,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/54977dc8364b21ccbf2e43d2fdb09837.jpg,No finding,normal
+17252,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f0bfb5a22f56789a0474184af747bc8d.jpg,No finding,normal
+48667,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f2cbad33f407df585912df819234ee51.jpg,No finding,normal
+56763,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d24cee27e1036892d9d120d9ee0a10ec.jpg,No finding,normal
+1276,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ada6149fec45a9046dbfe15e3459ec8.jpg,Pulmonary fibrosis,abnormal
+9218,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9c4b71578ae67f7b802c8e5fb6d768fa.jpg,No finding,normal
+20301,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7f1a4287bb17c90bbfb1d1683f623744.jpg,No finding,normal
+19777,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9229dbc9e79d1a96f2d3a827506fc5d1.jpg,No finding,normal
+1921,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b1d599b4bf50932fb66d8a9aaf41ba3e.jpg,Pleural thickening,abnormal
+19410,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9b091aa027eeb034fc8fe803692028a0.jpg,Pleural thickening,abnormal
+13796,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c41ed0b1964a1e973e25e02c3b44920f.jpg,No finding,normal
+6556,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1080bdf43ca7ca09d585bb32301f61cc.jpg,No finding,normal
+17700,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/33e50d8affccee27af22b7692af554d7.jpg,No finding,normal
+6515,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d571f85ab9434bcb8bc11bd175453c96.jpg,Lung Opacity,abnormal
+11568,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/97a05a3ade68254d5163547aab61f3f4.jpg,Lung Opacity,abnormal
+4255,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9fa07ce40365c2c37f75ba3a5486b8c6.jpg,Pleural thickening,abnormal
+11212,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/69ea3cb5de2b638097e68aa955ad1087.jpg,No finding,normal
+24236,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0f814da049ccab4171ed331c749f0eb9.jpg,No finding,normal
+260,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/352ab0683046ce107942e9e477007b72.jpg,Lung Opacity,abnormal
+21115,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a7b45302018421978a752e4d09f3b73d.jpg,No finding,normal
+16715,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ca300a7c90492a6f03220a3f9efe7c4e.jpg,Pleural thickening,abnormal
+6036,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/806c20c1d5b38e2ca7941854ec66659f.jpg,Calcification,abnormal
+7366,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2895e73af0ca994488b68383dc8e603d.jpg,No finding,normal
+7751,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4bb4a477596c2513ca7f95ac03ca3182.jpg,No finding,normal
+1689,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa3b6b158acb587e7cfac000b3737a39.jpg,Pulmonary fibrosis,abnormal
+6878,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1b635e668c3c61431b918f1ab457eac9.jpg,No finding,normal
+1468,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/250e4a4bfa51c58093c8a111a6adff14.jpg,No finding,normal
+12985,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/54e9f8deb096dd86e83938332fb366da.jpg,No finding,normal
+1968,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e96d18f0d425aaedc12782dc33aec7a4.jpg,Pleural thickening,abnormal
+24090,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0631f989ecd1aa969446b981710bb0e2.jpg,No finding,normal
+29569,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/26a01386eb1f1402efe6056e2f41de62.jpg,No finding,normal
+34962,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/98e2d03f7e9ba87b4922b35347866fc4.jpg,Pulmonary fibrosis,abnormal
+13353,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ee28d5fe8bad0f0e57d563a244ecc2f9.jpg,No finding,normal
+26817,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af7bc6de796b5a2399c962fead126547.jpg,Pleural thickening,abnormal
+5191,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d8f0b397c9fa487f69ca32f76a374cf1.jpg,No finding,normal
+1992,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0f186e3eba8d9ebd51feed957204ddbf.jpg,Lung Opacity,abnormal
+10409,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/776d1803d568d646b2e8d8b0648cde5a.jpg,Pleural thickening,abnormal
+5454,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e652b2cebae0a6c74e292b3112d29e6e.jpg,ILD,abnormal
+7497,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/df5dd80aab0aa6e0a6d8ea17860855fb.jpg,No finding,normal
+36725,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/06efcd37617307118fd48b3a493c133b.jpg,Pulmonary fibrosis,abnormal
+1594,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2e1571fc9e41f68fcc84b6094d664416.jpg,ILD,abnormal
+9209,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b84f3ca1815191737e4e635dc93d124a.jpg,No finding,normal
+30327,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ab6bf055e889a10969270fb9a0c4a3b2.jpg,No finding,normal
+2209,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/88bf02cc510da5050a869c290d8f8565.jpg,Pleural thickening,abnormal
+8113,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4547cd5697bce2198806126409b1192a.jpg,No finding,normal
+8137,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1280dc55c1ff852024be232c2942e3fd.jpg,Pleural thickening,abnormal
+9414,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dd928f86c1a8831da50e1c8b8d2f1707.jpg,No finding,normal
+42552,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5da459bb842baf8b844d998f5b6c996c.jpg,Pulmonary fibrosis,abnormal
+5982,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7289160240bb58ab1f37c92988cfb22c.jpg,No finding,normal
+2349,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bce9b4cb5ff441c9c906658f1e935fb0.jpg,No finding,normal
+3002,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ddff143851d1399b550480a41b4c6fe2.jpg,Pleural effusion,abnormal
+10015,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/401aee86de220c3e1fd9baae09f6f7e4.jpg,Pulmonary fibrosis,abnormal
+4633,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ae9d5b3baccd0f0f32f178b85aa868ff.jpg,Lung Opacity,abnormal
+12975,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f629fda93a2c6bcebb4f6bb2f19ed417.jpg,No finding,normal
+10004,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ab8276dba30d7268b96c07a0fff9bbdb.jpg,ILD,abnormal
+13543,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9a84e58abf8915c1e3459ae7f2da1e62.jpg,No finding,normal
+5663,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1ed597069acd8f4b77174148664e84d8.jpg,Pleural thickening,abnormal
+3789,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/edbb3284303d5df669dc8bd73ea38358.jpg,Pulmonary fibrosis,abnormal
+55968,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/392f2e98f9fa49ab193600815c304120.jpg,No finding,normal
+25832,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af545c8cabc4dec52e5dbc7698876869.jpg,Pulmonary fibrosis,abnormal
+11470,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/178fec733e92dffa7bdf5b6a0b0d54b7.jpg,Pleural thickening,abnormal
+500,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d1605d4007fbbdbec96acce4a834d10b.jpg,Pulmonary fibrosis,abnormal
+10250,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b9aae472a89c265e828445f35fa26a08.jpg,No finding,normal
+6441,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/882c80c6d41d645eeae1a46f5d5fa364.jpg,No finding,normal
+16311,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1625249b80df13df89d06b2c30877a1e.jpg,Calcification,abnormal
+1454,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2d7bcd136c20c5289094d7ac84d19bab.jpg,No finding,normal
+19718,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0204800ac6954c809315ea6e1e6948fe.jpg,No finding,normal
+1680,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1254518b2893f58324e93f375cffbd6c.jpg,Infiltration,abnormal
+7609,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/99dfb765fe124c55bc29005d7b17cdfa.jpg,No finding,normal
+3858,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/34b63ee871b59cc84249bc3c3ec8a4bf.jpg,Pulmonary fibrosis,abnormal
+1118,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7dbccd763c4ffbfd0d6b841fb5e4337a.jpg,Pleural thickening,abnormal
+838,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eaab62d65417c4c58c9dcbe563fb8e72.jpg,No finding,normal
+2293,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1aa5e1e8ebfb22b36552821f609f62d4.jpg,No finding,normal
+15823,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6f81edf81b28c3834c758cba1a572e28.jpg,No finding,normal
+12753,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/882f88c8897c7e06e65cc59f10ff4c41.jpg,No finding,normal
+16168,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7416addea9c936facd4be5ed79a2b8c5.jpg,No finding,normal
+1469,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7e654a20f77fd1d6d902cb78f4c779e6.jpg,No finding,normal
+9924,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e3a3fabfa4658426a68e4c82b57c9598.jpg,No finding,normal
+15461,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/db458f41a65184d55c82cdbee65ed10b.jpg,Pleural thickening,abnormal
+4208,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92f2ef4546ca782b7d9eb36d6dd7eecb.jpg,No finding,normal
+13623,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7ecd6f67f649f26c05805c8359f9e528.jpg,Pleural thickening,abnormal
+8751,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/01ee6e560f083255a630c41bba779405.jpg,Nodule/Mass,abnormal
+19333,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/425d40a4b08ec1aaccdc02ca1db78388.jpg,No finding,normal
+62229,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b2a52a18d74c641353762a0c1569a695.jpg,Lung Opacity,abnormal
+26446,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1fc71d17e68259b0ae13b884ccce7309.jpg,Nodule/Mass,abnormal
+2697,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/13d9dc60c9ec9848fba3ca9aeeaffb92.jpg,No finding,normal
+3686,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e76c69a0601a1f3f059a762b7fb0614e.jpg,Pulmonary fibrosis,abnormal
+17555,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8af84125f707b873c506f65de72e02e4.jpg,Pleural effusion,abnormal
+3803,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/430e3d75b2b3924e82d5fcf9bec84e8b.jpg,Pulmonary fibrosis,abnormal
+2684,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/258d918ebb5b4e4d13e381f0df399b5a.jpg,Nodule/Mass,abnormal
+28079,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/edeef2dceeafd6d5ebe67880f2f9162c.jpg,Pulmonary fibrosis,abnormal
+20711,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3b570d78d3b8fbe8dd3af543d0ab08a6.jpg,No finding,normal
+8383,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f67af60921c0ac44001149705cb5cf69.jpg,No finding,normal
+23976,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e9e7e1adf2a1ac448664c7e87f5fe739.jpg,No finding,normal
+1891,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f94dfffa1461683c80110786c3791a8.jpg,No finding,normal
+21090,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/427db646765e399ae43ccd98c50effdc.jpg,Pleural thickening,abnormal
+3921,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/09619c3dab17ec42ccbd87d29e0e05d6.jpg,No finding,normal
+10956,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cffa67149b86b1359623d25f061a2063.jpg,Lung Opacity,abnormal
+30958,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/52350d607fd79c62393eb7f2671f7194.jpg,No finding,normal
+1374,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/85e95b13040ae3e20eccac186b93e6ac.jpg,Lung Opacity,abnormal
+2311,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/078fc0b0a1eed8b7fd09eb6cbb5923e2.jpg,No finding,normal
+3223,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a3c14e9849589c82d4d7cbe592b3136d.jpg,No finding,normal
+18813,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5ac979705194fc05735e532dae71f3b3.jpg,No finding,normal
+12854,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e6de39c0d54c792c5408544be42be284.jpg,No finding,normal
+1425,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d94b4e689299d6eb3cc8f5ac772d759b.jpg,Pleural effusion,abnormal
+3079,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ca2725b69db57ebc2df26a7da70affb.jpg,Calcification,abnormal
+5901,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/26814fc54bbb41c62e1fc2c2646f3288.jpg,Pulmonary fibrosis,abnormal
+9,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/afb6230703512afc370f236e8fe98806.jpg,Pulmonary fibrosis,abnormal
+15102,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/838ef4aafc8f2392dabdfbee3a6721e0.jpg,Lung Opacity,abnormal
+4287,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/14f7d1b333dbf3cdad118914c95f42fe.jpg,No finding,normal
+14078,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2f479f67c2228f246b889508f794b785.jpg,Pleural thickening,abnormal
+16691,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cbfe3d59be5549fee6a56e73fc8b2803.jpg,Pleural thickening,abnormal
+16271,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9d5c532ba08dbfcbb12e198a4b03cb4e.jpg,No finding,normal
+9046,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f143122da6e0f80e97ebc5c32af11ed.jpg,Pleural thickening,abnormal
+796,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d46a63b662124927ce665a5dcae220b6.jpg,No finding,normal
+33079,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f184413f1c740b6b40279ecb5b9ace30.jpg,No finding,normal
+5888,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a847bdede3ab373ca4e2ab6199dc569f.jpg,Pleural thickening,abnormal
+54444,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b1bcc1f4782073f44d051c7a7a6c22e1.jpg,No finding,normal
+26738,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dc0fcb0e8d98ec8065bee19fb06670df.jpg,Calcification,abnormal
+1779,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/95b32ce2a10f57629eb63830376237ca.jpg,Nodule/Mass,abnormal
+25974,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fd0a2bb62818a9b682ee4512904c0fee.jpg,No finding,normal
+10312,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/038a7c88fcd819549f430c1fd907658c.jpg,Pulmonary fibrosis,abnormal
+1845,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/caf695e686f3fd22b1717f02e3628407.jpg,No finding,normal
+6229,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2cb59fe7e250f3e883c884e726719115.jpg,Infiltration,abnormal
+2010,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/99e893102cae18f29f3a19e6bf335150.jpg,No finding,normal
+39528,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aa0a24df022cd97cc1dff4f7ea2131cc.jpg,Pleural thickening,abnormal
+21643,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/25d4801df81d8416a6cd9676027eb6cf.jpg,No finding,normal
+337,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b6d81cd3e996c836eeeadcc896afdfe4.jpg,Pulmonary fibrosis,abnormal
+1243,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4b02649bf322cc8f57be8468b50e85f8.jpg,No finding,normal
+982,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3ea8bc6bac5cf5cd5a80cd1b93afa2b5.jpg,No finding,normal
+2627,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/384f1bceb95a5f2dddcd70e000a5051d.jpg,No finding,normal
+15275,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4ab38854ac379d52db168d091b3734ad.jpg,No finding,normal
+18552,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/57850a5fb4ff1a1e8597a8bdea74759a.jpg,Pleural thickening,abnormal
+32086,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3d6be0fd234f4be9a57ea0ec00d1e6b6.jpg,Pleural thickening,abnormal
+10759,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d10befbaf9fa291ed319f7118515a20c.jpg,Pleural thickening,abnormal
+21995,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5f85b5e9e56f415879dd96808b606d02.jpg,No finding,normal
+22874,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fb49f0ac68ebc19772754e39d4a59329.jpg,No finding,normal
+1106,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/91a12fbbe1ad5eb62cdf97edeb122280.jpg,Lung Opacity,abnormal
+19264,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/009d4c31ebf87e51c5c8c160a4bd8006.jpg,Pulmonary fibrosis,abnormal
+4656,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d6a23b22b844af6f330145bce09c23a5.jpg,No finding,normal
+2927,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6a2119f5509f4f9b7811ff4e7d786a62.jpg,ILD,abnormal
+23993,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/66e47c15c146fd0f6fb29adf167532ee.jpg,Pleural thickening,abnormal
+3062,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/654957991bdf2ede340cc5335285be5f.jpg,Calcification,abnormal
+13875,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/34cf0e0224b5351949b986a7c0c51524.jpg,No finding,normal
+702,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a9029c62f52fcd875b4e40d85b0d3b2a.jpg,Calcification,abnormal
+18878,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/00575e3846ebd05a909d97ba59c53d30.jpg,No finding,normal
+2368,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f5f0ce7c7c2a1958797bf900ede184fa.jpg,No finding,normal
+14345,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f329a8c05ac45949b43e6626efdb8d0.jpg,Pleural effusion,abnormal
+1268,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af793b61efb4ac8fba4bc62475506e23.jpg,Pleural thickening,abnormal
+44323,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/afa4de6570c31504ba4b77978377ccc9.jpg,Pneumothorax,abnormal
+14151,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/48b4cca3fef302fae60f37abfe5bb461.jpg,No finding,normal
+36641,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3479c81736f275a848b74d952ebfab29.jpg,Pleural effusion,abnormal
+7129,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41c5464286501600f3a4c2f7a5c4c9e3.jpg,No finding,normal
+2421,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ecd11f0b7b55d7d0515fb569cbcc39d8.jpg,Pleural thickening,abnormal
+4420,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/376760156c04cd1f99b14ba775e7fc32.jpg,No finding,normal
+5329,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b684ded42589f435f9016fd82e8a08c7.jpg,No finding,normal
+488,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2c3979232fe659fb46d4ca12263e75d0.jpg,Lung Opacity,abnormal
+60201,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7bd506ddbe0c59432e3c3a24aa2205e1.jpg,Pleural thickening,abnormal
+1167,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/07d82e7e5749cbc21633134f489a7fbf.jpg,Pleural thickening,abnormal
+11834,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ca1f29978ccbee874f58148f4148e278.jpg,Pleural effusion,abnormal
+4142,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/33e5b39e10a9320f227e10abf1c74ab1.jpg,No finding,normal
+10044,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7a4bbf44262ba36208dbb20153f4569d.jpg,Pleural effusion,abnormal
+5693,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4890b105c1f8c0291c6a00a47ce7332b.jpg,No finding,normal
+8720,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ec59b7db567515812e78a587ae02203.jpg,No finding,normal
+17022,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/156620bd19b7dee86079be71d26bd87e.jpg,Pulmonary fibrosis,abnormal
+8484,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7978725e43f1b301551e0fdbc32faef5.jpg,Lung Opacity,abnormal
+13651,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2fc7caf50f8f95d93bd2b19301a80288.jpg,No finding,normal
+17170,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/77c56551375e4c0823a042fdf3d226a1.jpg,No finding,normal
+46444,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d4ea25aa90608e4cac7b6c6679c7343b.jpg,No finding,normal
+15510,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7b9b793a911c9bc192d550cc6b2b257b.jpg,No finding,normal
+19847,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8a67f8e2673ceb7004824904b6e72055.jpg,ILD,abnormal
+8890,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1f4b11018ae7a80969cea875fa22abd1.jpg,No finding,normal
+465,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a6d1ced2d75a229ea936e5f2dbbbe32.jpg,Pulmonary fibrosis,abnormal
+12275,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1b5fcd4b24608c798bd36523feaa5a03.jpg,No finding,normal
+4436,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/872604dc857534985da9501c4720cadd.jpg,No finding,normal
+3449,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c337c0c48cb14bcfac1ba739a785c2cb.jpg,Pulmonary fibrosis,abnormal
+5553,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8bac2b75c86fcfd46a1dc55032449ffc.jpg,No finding,normal
+1121,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3bf8346b7d5b0743713624143004772f.jpg,Calcification,abnormal
+20036,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/104d4e165637f627df4040652d2b40e8.jpg,No finding,normal
+20951,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af610bd6b734035ba61ca77f66f7c1a2.jpg,No finding,normal
+7986,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f52b69dc3ae7f38aa26bbbc51c38c826.jpg,No finding,normal
+17162,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fb0220b38c589f1d7be8ef917483e607.jpg,No finding,normal
+7109,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e521b0e2fca887f754c05d26a9783103.jpg,Pleural thickening,abnormal
+1813,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/56fba4cf02658d0592281bf6545798bc.jpg,No finding,normal
+7395,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/444eb5ead71bc5ab7e7ee13c983df495.jpg,No finding,normal
+8139,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c8f93e5b5641e16fcc93e1cb1a8172d4.jpg,No finding,normal
+1514,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2f4573aa154b6ee5f4ba4dc90626f5ec.jpg,Pulmonary fibrosis,abnormal
+39414,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9369d8c9b16544b4f5c2d953f972a87c.jpg,Pleural thickening,abnormal
+45446,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d40bd97f8d9ecb4aef25402cee0b4fe7.jpg,No finding,normal
+7102,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9b1d076abcb937c2e19f7c2e10dbcbc0.jpg,Pleural thickening,abnormal
+771,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/263a81f7641e3e94d9c9fce271e2af6a.jpg,No finding,normal
+18042,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6af6cd896e3df39227560af1123a9402.jpg,No finding,normal
+5346,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/abc012252fe22c8e6b94a02baf6a8d71.jpg,No finding,normal
+52790,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6dd1a29dcafeb9545da50d85324bb781.jpg,Lung Opacity,abnormal
+12253,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/07cd31eb3e596d7ebc51d920beccd76a.jpg,No finding,normal
+1082,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b18121dc37e2914d7a630c3ac781c9d7.jpg,Pulmonary fibrosis,abnormal
+18361,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7729fbb58b8006fe2b8305f9b2b33883.jpg,Lung Opacity,abnormal
+2580,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/66e2d822ac451ea21fcfa3182c56a651.jpg,Lung Opacity,abnormal
+12077,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c18362ca7e7d5df7a4dd8db31dfed194.jpg,Lung Opacity,abnormal
+3684,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7e534f2dc65f7cef4f864325433017dd.jpg,Nodule/Mass,abnormal
+8938,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0b357271846b8fc4d32dd774b74bf276.jpg,No finding,normal
+9177,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3e79b43f7eacf45268bef2a513f7759a.jpg,Pulmonary fibrosis,abnormal
+11149,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cb0165cbc17f5d8d0fc4deab637aa2ae.jpg,Pleural thickening,abnormal
+801,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d86ef0cf8f2fe8de11926a45bbce5379.jpg,Lung Opacity,abnormal
+16690,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d661504676709e84d3075bb96462e7a5.jpg,No finding,normal
+28765,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4f88ef0610cf30530d9492bf9980ffdd.jpg,No finding,normal
+37299,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ede01ff5e6de8007412f86c024fa798.jpg,No finding,normal
+3645,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/27ea40d58f6894394fc2990d739a8c0e.jpg,Pleural effusion,abnormal
+5626,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c44d181b9862041599eef9b75a890704.jpg,No finding,normal
+8028,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5c0e5d5565e95746f3760193c38a48bf.jpg,Pulmonary fibrosis,abnormal
+25003,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bd1aeb3b9a96232d36037a08070a2149.jpg,No finding,normal
+28827,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa8fe6da7a88296fdd66fcfd8b2729d1.jpg,No finding,normal
+7759,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3c7d38fa039c4550491cf77cb52bea8.jpg,Pleural thickening,abnormal
+32322,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/98dca7e62a4f2d47455b9a275fa75a08.jpg,Lung Opacity,abnormal
+6370,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f26e10c0a054980a7522ae538f71c731.jpg,No finding,normal
+6805,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3b887c0550e9722c9b86b7c22ad09e11.jpg,Pleural thickening,abnormal
+630,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1f0020b4117724f14386bcbeebb9d194.jpg,No finding,normal
+4763,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8993cb2d443dff1bd40a80022d8395c9.jpg,No finding,normal
+15829,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4b1cc160e3288b5dcc65654cbcd06307.jpg,No finding,normal
+18983,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0a404541211c7910862e886772e31ae4.jpg,No finding,normal
+23442,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d75471409759c988b3380b9a675fd12c.jpg,Pleural thickening,abnormal
+14792,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/10f8f81191e4116a4b9715bce27f4638.jpg,No finding,normal
+6799,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a9b3444f50e7ab612641a6fe1e4f8cb9.jpg,Calcification,abnormal
+505,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e5d63ef8a922c6775c51ce9b511235b9.jpg,Pleural effusion,abnormal
+10032,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c8f75e6529a051827b8b7952a3e65f5b.jpg,ILD,abnormal
+6286,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ddae224726cc363800e54cf9a2152831.jpg,No finding,normal
+47201,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0dde4c1aab003e908ec917aabbd256d4.jpg,No finding,normal
+9984,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/71ddd7f7b44aa49dafb8410e8d542ffb.jpg,Pulmonary fibrosis,abnormal
+9048,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8d50372688dee34992b6b39fd237cf25.jpg,No finding,normal
+2102,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d45374a1b323c34b8418b36b819783e3.jpg,Lung Opacity,abnormal
+16016,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2583527ca7c4a6e278fb4506ba8637ab.jpg,Pulmonary fibrosis,abnormal
+34577,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bc849fedf97c9eb2bc7707bac17329bc.jpg,Pleural thickening,abnormal
+3608,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dcc6c3c2c149299292afc9004774505d.jpg,Lung Opacity,abnormal
+1384,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a3411581087b63a70a2bdba24e55ff4e.jpg,Pleural thickening,abnormal
+7412,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c96b6f449f9529dda0daafefbbd769e5.jpg,No finding,normal
+2180,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/604ce8a56fd0539880b17f999ad10468.jpg,No finding,normal
+2597,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d630459c8036ef43b0fdb55625289101.jpg,No finding,normal
+22003,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/641968ae3a4233add5aac188531b6727.jpg,No finding,normal
+857,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1a414a1cb6b545c2ee4de4abede481c7.jpg,Pulmonary fibrosis,abnormal
+23667,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6bc1897634bbb80696b33e3ad978d381.jpg,No finding,normal
+41617,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/00bcb82818ea83d6a86df241762cd7d0.jpg,Pleural thickening,abnormal
+8254,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0900f93acb9f42caa354036b6453816d.jpg,No finding,normal
+17399,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bb3616e0e07167fe64e8f90a3886a8a3.jpg,No finding,normal
+20325,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e7a911ddb90533a589331cae6aaf82b2.jpg,Pulmonary fibrosis,abnormal
+21722,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/13088cbf40717bace59ef0961554c08f.jpg,Pleural effusion,abnormal
+6095,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3c58145fc5651bd028aaee3d5f3d6c40.jpg,Pleural thickening,abnormal
+12936,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c5ff01c7bfb4362fcd98f36e555b08c.jpg,Nodule/Mass,abnormal
+6905,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/df1ba068fad70f8cfa474ee67004067c.jpg,ILD,abnormal
+17984,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/12bbf5e4c310be2e3d375867da5d42c6.jpg,No finding,normal
+9069,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e15a995ca75b644370fbb4b60809783d.jpg,No finding,normal
+7365,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4ffd7c077cbf6ac90d95669b7cb314cc.jpg,Pulmonary fibrosis,abnormal
+20601,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3da6aaa7e2b67dec303f577cc9768766.jpg,No finding,normal
+26917,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d308ff68f68854b5e89d4ca5b3117cf2.jpg,No finding,normal
+5105,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/21d648b03bda14eb9c5c1424f02cd3ef.jpg,No finding,normal
+3393,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dff6766d2464bfe77de7f6f19edbf51a.jpg,Pulmonary fibrosis,abnormal
+42677,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/45b753e5083940be9e2f3713796a7056.jpg,No finding,normal
+1381,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0d03df2e9ed557d0c9edcec777056c1f.jpg,Nodule/Mass,abnormal
+1426,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5714aea8b5a2d9b030196646842a6d47.jpg,Pleural effusion,abnormal
+289,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/566150c4fe08a31a5a17d9d9f6c5f21f.jpg,Pleural thickening,abnormal
+48920,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7cc05a16eb47dc88bbd7f62494972ab1.jpg,No finding,normal
+52174,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2b8d23b406077cd35596765abe6930c8.jpg,Pulmonary fibrosis,abnormal
+514,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/901d3c3375a1938dc760bb36e9408d5a.jpg,No finding,normal
+20605,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f89667b79d3858d6064f49b5fb203800.jpg,Calcification,abnormal
+10128,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b232e2ebbf7d6abc27c4613ba5ae28a2.jpg,No finding,normal
+7198,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f00e3cd18cb1fac857ffeab0e3fbc770.jpg,No finding,normal
+952,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f769eea17a2e7678f481f386c3c6261c.jpg,Pulmonary fibrosis,abnormal
+6260,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e8da654fb9044ccb66b765aa4085c791.jpg,No finding,normal
+8166,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/58531213db18b19dd940e11ed1350ca4.jpg,No finding,normal
+22294,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ee5f83857d2f92db7596c009c1ce3dba.jpg,No finding,normal
+39010,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/93da74ab74e53d90f7cd3a79c5b2d78d.jpg,No finding,normal
+35,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e4b12e030788bbd71f7ad72fa1ee5a71.jpg,No finding,normal
+7888,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/de4ab903cee751d979e2a7c14f51500f.jpg,Nodule/Mass,abnormal
+8413,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/32001794ae2e10aa0da075ca133664b2.jpg,No finding,normal
+15020,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/58982ebd6e63659e9ead7d20e26eb34d.jpg,No finding,normal
+23035,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e6d523c9fa36153b771aff4e9b03ecb4.jpg,No finding,normal
+38275,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7a5ed0a74ecc27101ba9cb64066cf452.jpg,Pleural thickening,abnormal
+1750,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/96fb81c205dcedda4f036353e4f18cdb.jpg,Nodule/Mass,abnormal
+1566,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eaa4b09922cfd1c4130787403173e93a.jpg,Nodule/Mass,abnormal
+17642,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad6e1fe898fb41a7c76718428f7c80a9.jpg,Pleural thickening,abnormal
+12858,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d701d701428aece990f905ba3c88f3bf.jpg,No finding,normal
+6967,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8dcb48f8f81f5d883b1c85b7106a2378.jpg,Lung Opacity,abnormal
+22486,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b5a22ed415afc3a25ec05949305ec2eb.jpg,No finding,normal
+12619,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b5eb48981980bb7d9fa8ccf1d79f73ac.jpg,No finding,normal
+199,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a7bba955cdf410ec6da045191a8c056c.jpg,No finding,normal
+9486,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/734bbd50e6a2265ae0092510852c9c24.jpg,Nodule/Mass,abnormal
+11263,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f42000d2ffb02c74c696fba7678c51a6.jpg,Nodule/Mass,abnormal
+10570,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/25c3e8d473ae41bff1a294abfa850615.jpg,No finding,normal
+20606,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2b4350b0495a67a2381af182f77b8465.jpg,No finding,normal
+49536,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/754e5c9903b4b9bec894ebde02b54db8.jpg,Pleural thickening,abnormal
+8457,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6cb76e80cd8312a6cb453b11d5ea44f8.jpg,Pulmonary fibrosis,abnormal
+3841,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4085e7c5e44d4bc75213131a8a6aee47.jpg,Nodule/Mass,abnormal
+21632,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/388fb2f980ea6f063c9e05a6614af82d.jpg,No finding,normal
+6078,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5f3025ce95f6e6b3ada17c1d0d253dee.jpg,No finding,normal
+5376,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e4ecce25be7249bcc04f071bb74b383e.jpg,No finding,normal
+5417,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6b49f9a611fb606933242b3409569497.jpg,Pleural thickening,abnormal
+24927,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f70157a4a06e9ba3da6fae2fc48fb4e9.jpg,Lung Opacity,abnormal
+27656,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1bc4c3008d6a7144722daa35a7ff2b00.jpg,Nodule/Mass,abnormal
+1798,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/37c55613c78c7775df0514fb0c804f4a.jpg,Pleural thickening,abnormal
+29847,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/371d6f540ac601affe81e547b05c551a.jpg,Nodule/Mass,abnormal
+9000,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b9a2c726f8a39ea3cc841fa6d3100cc6.jpg,Pleural thickening,abnormal
+32996,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c8b8bf0b324d1d6c593c23ab9815d26f.jpg,No finding,normal
+23923,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/209984855d71b90339d062d156aee959.jpg,No finding,normal
+65497,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/50297e864bd40ca2a8102013e0a899cd.jpg,Pulmonary fibrosis,abnormal
+8208,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/05ee3741c4523f2265a0dc3c1b69d529.jpg,No finding,normal
+14233,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/87c4e738629ba2dfbb78ea55247908f8.jpg,Pleural thickening,abnormal
+7882,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/43e96bafa84091eec856901f949efa05.jpg,Atelectasis,abnormal
+9087,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3126f384167edfe4650413888feb60f1.jpg,Pleural thickening,abnormal
+10788,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/acc7065e73590820d1fa944488092d59.jpg,Pulmonary fibrosis,abnormal
+3652,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5a557f51ba011be71c4ba3223515dbef.jpg,No finding,normal
+3169,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1606093b9d036cda7e30316ada6ea2cf.jpg,Pulmonary fibrosis,abnormal
+38870,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/86dbe6128679f9c5752c1c82d040caa2.jpg,Calcification,abnormal
+243,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c5010a72f3e20e9b59d7bb991d3c633b.jpg,Pleural thickening,abnormal
+63332,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2121782e288bb5fccf342938ce4faee2.jpg,Lung Opacity,abnormal
+3110,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7705b3f3b2a3a2de67e579119f53466e.jpg,Pleural effusion,abnormal
+41582,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5873d3612a0a9eace6651a79da106faa.jpg,No finding,normal
+299,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2b0d2503cdaa8d34ad9a82cf4fdb546e.jpg,Lung Opacity,abnormal
+7704,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d5adeb5f9d36c06c466a45acfb35d4d8.jpg,Lung Opacity,abnormal
+4134,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad2a12be7e44277e041c435e8b526632.jpg,Pleural thickening,abnormal
+33454,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/881d0a72388a1c78c27e93cc016cd312.jpg,No finding,normal
+11366,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/56c3bbef093e2a2601cf4373aac9ff92.jpg,Lung Opacity,abnormal
+14084,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/42b3ff032de1694bf76da99bc27c7636.jpg,No finding,normal
+12821,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eefb68d818bf732e1cda9be83b641a19.jpg,ILD,abnormal
+25747,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cda9cd500cfc67b76f598e4dddc9f7a9.jpg,No finding,normal
+12255,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/04fbba5834f2abd713e66b3d0e6a678e.jpg,Pleural thickening,abnormal
+43381,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/98a03f67fa1ac60db313bbd9a09d01ec.jpg,No finding,normal
+25142,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dfd10cbb920dd5ead4cb07bc6bfe6bef.jpg,No finding,normal
+3655,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/53f8a8327590a490890d3d2acfb08dea.jpg,Pleural thickening,abnormal
+8547,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f3df4393958e462699462c22c36f26d.jpg,No finding,normal
+8521,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/66573ba393543d7bda876ed5a255adf9.jpg,No finding,normal
+26854,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/26aede63d6658410b4c56058cc9ea56c.jpg,No finding,normal
+918,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d791f10dbcb0ab7c0c34dafd2fdf8b08.jpg,Pulmonary fibrosis,abnormal
+2148,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/639a44bdf6f3cfe5d05f96683604e758.jpg,Infiltration,abnormal
+3867,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cf1725e48bb0358f018494268da8dc1a.jpg,No finding,normal
+39308,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dfc7293d19f545e0de7e67dfb7772653.jpg,Pleural effusion,abnormal
+3830,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/47188d0c91088558e62b52f1c9f06b0d.jpg,Pulmonary fibrosis,abnormal
+1272,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8ddbe682c5955f5e3081dc92e0b46a82.jpg,No finding,normal
+2628,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/985aa6789515f5ad438d2384ed52cda9.jpg,Pleural effusion,abnormal
+2801,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/77d6928016b9ddbb311fe1653289790e.jpg,Pleural thickening,abnormal
+15620,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/055ea315ae13148aae178aed27fa980d.jpg,Nodule/Mass,abnormal
+496,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e31be972e181987a8600a8700c1ebe88.jpg,Nodule/Mass,abnormal
+10758,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/194948df6c373e542f180aabe09894e8.jpg,No finding,normal
+32313,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7f3e0ac2d75bcf28ff324385da5ff3f9.jpg,No finding,normal
+46660,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4113bf958daeb1b468c147801007dfc3.jpg,Nodule/Mass,abnormal
+3514,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d56fd281ce49dd0ed4dfcf1d72ca78d0.jpg,Infiltration,abnormal
+169,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4a46cdf01cee2a200f00daedf11576a9.jpg,Pleural thickening,abnormal
+12039,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ecae6af88e3b859c906e9b149a422b3f.jpg,Calcification,abnormal
+27584,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92ea5983fa054b5ca1f6bf98971f61af.jpg,No finding,normal
+7427,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d3ef9ae515fb3cd3565e2c9875b3e0aa.jpg,Pulmonary fibrosis,abnormal
+35647,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e5e87589e79c3431da6e89518703f6aa.jpg,No finding,normal
+23313,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/05dc427060325263843c57a04aeee7ed.jpg,No finding,normal
+13179,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f7975e0d3f833ad7f395b1c895db6189.jpg,No finding,normal
+4727,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fafb75e0e75b40acd3fe6890c8bfbfe8.jpg,No finding,normal
+18558,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/551456e08a1327bdba41297c8ebb8c6f.jpg,Pleural thickening,abnormal
+4591,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4afccda5fa0674d8cc99b342938db8f7.jpg,No finding,normal
+11606,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/616f7784ae537b00b14617a57b53de73.jpg,Pleural effusion,abnormal
+8705,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad6f3b380d9d8d24b9fc87dab326c3d7.jpg,No finding,normal
+30175,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7a350dc1bcdf2fb34fcc57f05adf9da7.jpg,Calcification,abnormal
+16836,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0d94045f9e16f077bc6bbdea9f6c561b.jpg,Nodule/Mass,abnormal
+2779,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e1e596163010acb347ac7fa1a48d8d9c.jpg,Lung Opacity,abnormal
+3908,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1321c07f9d1b639d364cc360aac4dae3.jpg,No finding,normal
+7317,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fb2b28e4c2d24f22d4f67804eef69ecf.jpg,Lung Opacity,abnormal
+5045,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e1e6104574f58fbe283f16333cdfd5cd.jpg,No finding,normal
+7113,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dc5aaa675e13f5a08673dd0ad0d80d71.jpg,No finding,normal
+18411,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/18ee9ef3baea468de2087e0edd85e919.jpg,Pulmonary fibrosis,abnormal
+8661,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/58169f2fc709a58b5e3e10ba8e1bb3dd.jpg,No finding,normal
+58803,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a7a75a118e112a3b655617f77a3009a.jpg,Pleural thickening,abnormal
+25516,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/52dcd66f7bb51f7c45608d952da352ae.jpg,No finding,normal
+28925,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/df56260ea14eab526f2dc53eba711d6c.jpg,No finding,normal
+19728,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/031625d57b5e9a5c8bcd7b9a82246fcb.jpg,No finding,normal
+2602,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/67d6d106da8aa96f4368d7cc11624f7a.jpg,Pleural thickening,abnormal
+14646,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d7aa5e60ee80aaf14ca8ed980dca65c0.jpg,No finding,normal
+40209,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f2ddce533c317954c50f4e1107d2b7a4.jpg,No finding,normal
+20169,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/813556da2d2cf106da112829e2dc3d4c.jpg,No finding,normal
+27841,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5b435bc0d8f67bce2d114c805b66ca16.jpg,No finding,normal
+17686,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/671c99257974b87e99ced41ccb84758c.jpg,No finding,normal
+1672,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ba68c12f2141bba79d9c29322c2c295a.jpg,Pleural thickening,abnormal
+2569,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6818b9a73dbaf129b63a2848ac1e576f.jpg,Pulmonary fibrosis,abnormal
+1988,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3eafbfc0db1b4bfa5bfa963b6fe465a8.jpg,Pulmonary fibrosis,abnormal
+14838,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4010817f919544f7c1c7eef1858ce071.jpg,Nodule/Mass,abnormal
+15800,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5999e9610932a293d57fa921d4a4905c.jpg,ILD,abnormal
+45277,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/11f544eb47d0dee23c6c1bb95fefda8a.jpg,No finding,normal
+6579,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9d109b2a0813f24df26b7e0d8820117d.jpg,No finding,normal
+7999,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/516805d225d88cc764d75ca58e1b7e43.jpg,No finding,normal
+2725,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4996551550179d4bf4c0cd00e89690b6.jpg,No finding,normal
+13668,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/14f7c3b33b29f53bcd6103f50ed76353.jpg,No finding,normal
+4273,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c12df5422711be0ed7b17a657c68fc8d.jpg,Pleural thickening,abnormal
+56467,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c619a784636c085eb798f98a5ba1102d.jpg,Nodule/Mass,abnormal
+7282,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7370d05489a973cf0e92f2f241d4fec4.jpg,No finding,normal
+49593,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6b75fcf73e3630eca7c4f1df3c7b4fa8.jpg,No finding,normal
+9690,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ddcd8866dd04a1b1e87bbcf3ab9c6760.jpg,ILD,abnormal
+29,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fdd5c663764c4f333a42250ad5a67790.jpg,No finding,normal
+48921,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e071243215a835dbf5f53328856f4126.jpg,No finding,normal
+15599,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c3fffdde3c71da55078f310761551e88.jpg,No finding,normal
+5086,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bf2d58a3c9cfa9f23bd74560e1cfe687.jpg,No finding,normal
+8477,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/23a8f7f5a8d57205fc42afbe83ccc3da.jpg,No finding,normal
+9822,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ac2c7528ea0a9bea5f7485694006a5f.jpg,No finding,normal
+18026,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3e2c52e066e6bc9e28a58d7f13c64296.jpg,No finding,normal
+20455,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7109c0466922f6ce2dda7055c44c7d3a.jpg,No finding,normal
+1524,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f5eb3e7e9ee9c4d08377de30251a94e2.jpg,Lung Opacity,abnormal
+10275,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92c4bde91acc54147a32701d24422734.jpg,Pleural thickening,abnormal
+27536,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/75fc98faf4b1fe70286b5ad5fc39365b.jpg,No finding,normal
+5827,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/211ef732c6baa973b00909c60ccf63e1.jpg,No finding,normal
+23967,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b0ce7cceb5ad859254814cb3f75a33df.jpg,Pleural thickening,abnormal
+29487,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1d7f85337975dded50e1414cef194deb.jpg,Pulmonary fibrosis,abnormal
+23088,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4c029c4f3deed9414b157053867709b0.jpg,ILD,abnormal
+7256,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/62cd251361d7cb1d9a713c2508f0b4d7.jpg,No finding,normal
+8573,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a90509f35d907cb42a35534f7be76b3c.jpg,No finding,normal
+11379,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ebe4ab991ab3c0551a697e34f5e83b36.jpg,Pleural thickening,abnormal
+7996,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/703e3e8b33821c0b0553c5d534a5419f.jpg,Lung Opacity,abnormal
+20960,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7007dcd82668f62cfe63684ca4f27fbd.jpg,No finding,normal
+13677,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/efc842e53ed3a948b8c6b5284c132c60.jpg,No finding,normal
+10995,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9026f47a42aaf8c22c7161556f67c5b6.jpg,No finding,normal
+35219,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f71641309f591c6ccd3e0c98ff3d60c6.jpg,No finding,normal
+9104,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e6e114b28a55ec3e9ecac74c55167fef.jpg,No finding,normal
+1081,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ac84f263701e0d8668a47ac3e59e4e48.jpg,Pleural effusion,abnormal
+1495,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1aef7fa409ee0cb4579032577e02e9cb.jpg,Infiltration,abnormal
+1466,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5f6d317d6ef78eb1f66b9cf0f0bd8555.jpg,Pleural effusion,abnormal
+21926,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/60f2171aff3d6e13a8987e59d7a87739.jpg,Pulmonary fibrosis,abnormal
+17072,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1adbf78bb498ae9a0d2f774103d63e3f.jpg,No finding,normal
+34593,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/60bd2b079a603356e49416f32b75ded7.jpg,No finding,normal
+309,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c7d940c13f1be3feeb46adb7e8206de9.jpg,Calcification,abnormal
+2822,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/43a9edf6cea5fec0b63f8a6d9e2a50d7.jpg,Pleural effusion,abnormal
+969,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a4eb3a3daac654b501ab4dffb3d371dd.jpg,No finding,normal
+16577,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6d3451478ca527968706d5075d5bf0ce.jpg,Pulmonary fibrosis,abnormal
+2085,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5170326726acc5b2f50c4426417f3b23.jpg,Calcification,abnormal
+12489,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/87a724e9ba23be348dbaf24878afa014.jpg,Pleural thickening,abnormal
+9569,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fd6d801a9b661fd0abe97e5c37567c2b.jpg,Pulmonary fibrosis,abnormal
+8382,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9209eb472d8c5200cbc8ad2015cbf1a2.jpg,Pleural thickening,abnormal
+15975,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a4980680a489acd84fad209f1c550d21.jpg,No finding,normal
+6601,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b8202fc93f201492ab7880cb6b4c9165.jpg,Lung Opacity,abnormal
+11357,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/df908402799fe45e0bac05940e1fcd9e.jpg,No finding,normal
+53377,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/222b7757f55bee221e7aba69fc9928d0.jpg,Lung Opacity,abnormal
+2142,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e645d9985d6afaacf2722b9c82b2c9c5.jpg,Pulmonary fibrosis,abnormal
+1136,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5df359e160b87cd0d9f496a1e6648b1f.jpg,No finding,normal
+17409,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d9a6b1f6a4175eaee343eef3c1134928.jpg,ILD,abnormal
+4443,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d0ea942db524a895c4bc433e03c3cd3a.jpg,Pleural thickening,abnormal
+4629,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e467236cae1f6e90abf736af6f8fe042.jpg,No finding,normal
+24099,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/27ae5a2982f9ef772cccfbd14332f965.jpg,Pulmonary fibrosis,abnormal
+6588,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b489964b59d3f6f9070e45a02e469d8b.jpg,ILD,abnormal
+12020,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c978cdb3275ab78fe11929e145dedab2.jpg,Pleural effusion,abnormal
+13757,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cbd90d1afae5a67fc7bf5ed0e73a2ccf.jpg,No finding,normal
+16187,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1ba651ae8bc6ee9f54a09088442b930c.jpg,No finding,normal
+4628,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d936f8115e8be8a46c5933decd3b6b94.jpg,Pulmonary fibrosis,abnormal
+279,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7d7ebec69dcf4ec6e88f58b8eaf4e4df.jpg,No finding,normal
+1226,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/610d69d7787f995a196a5d8ea8ed1be5.jpg,Pulmonary fibrosis,abnormal
+34519,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/34923076c417ba259406746b6942835e.jpg,No finding,normal
+35712,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7b759182d86f6a44b377ffcfce8a3b53.jpg,Nodule/Mass,abnormal
+19086,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c6ae45cbd57420cf4937b9f9299a5667.jpg,No finding,normal
+13067,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/357b22f02be38869ae859f0add02b898.jpg,Pleural effusion,abnormal
+34019,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9875e42950bf3e157e96b0fc8c6f4680.jpg,Pleural effusion,abnormal
+5832,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/395a89a6041167d0254dc826ddfe7110.jpg,Nodule/Mass,abnormal
+626,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d3013a1bf9748593f9a413cf4f067d7f.jpg,Pleural effusion,abnormal
+6012,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5cbf1220606242111b9d4c6754c71777.jpg,No finding,normal
+18233,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c3adefe651baf211a73e391f3068e916.jpg,Pleural thickening,abnormal
+12072,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d15440be54e5314679b36d0e7c9c0da1.jpg,Lung Opacity,abnormal
+1776,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bd60f56f346490b1b62e6cfd02cbe7f5.jpg,Calcification,abnormal
+10093,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/582b7c53ef97d1107d527bf23879353f.jpg,Pulmonary fibrosis,abnormal
+11910,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f363f5cac9a75f1fbb54196ee313454e.jpg,No finding,normal
+3573,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa93ce20869f64a1d44d6b8b3d962061.jpg,ILD,abnormal
+12732,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7ed01df33497667609ef5a2585b5e36d.jpg,Pleural thickening,abnormal
+8539,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/27e113d3d158dbdd548b534c26164e55.jpg,Nodule/Mass,abnormal
+375,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa5f06ba5deade163b028b37cfe68901.jpg,Pleural effusion,abnormal
+2761,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4308b795084095f21117491e3b07f2a7.jpg,Pleural thickening,abnormal
+49578,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f8c4ffc718ece871a52ab5f63b04b41c.jpg,Pleural thickening,abnormal
+1310,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/81314db8b8a964015628efa277e1d7db.jpg,Pulmonary fibrosis,abnormal
+16689,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3cf65c76b376cba244af23e119d705b9.jpg,Lung Opacity,abnormal
+6885,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fc50039c45fdb6c9224bfff5ba4e64b3.jpg,Infiltration,abnormal
+9400,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9206c8b46a67949f8996a411f9d2d379.jpg,No finding,normal
+6512,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/22d19c4c78f610af52deff4e4ab318e4.jpg,No finding,normal
+16992,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8dd6a2ac8fe48545dde7105a66435cac.jpg,No finding,normal
+207,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/644ce5af82ecc76391728df8cd2bfb3d.jpg,No finding,normal
+47048,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aba0ba3da951c0178d50c7cda5e63894.jpg,No finding,normal
+8256,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4ec2fcd26cb91d4d33596c69c46e0816.jpg,Pleural thickening,abnormal
+23830,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3e44ac670116ca3a4bfd07ef19980b2a.jpg,No finding,normal
+9559,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ac0d5180cbac66eead6195728563d5e2.jpg,No finding,normal
+3575,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f6fc6f200924da874ae95664661e67aa.jpg,Nodule/Mass,abnormal
+10888,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f70e3e8c1f86aff6d70d64e03c111994.jpg,No finding,normal
+8219,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4cf1b1d76ab89d36c71bb2c1cbd4335b.jpg,Pleural thickening,abnormal
+45662,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/54646f3243174b65ff1a0cd363cb1a5b.jpg,No finding,normal
+50058,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c450f19114239e20978f5eeea14774d.jpg,No finding,normal
+23473,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8242bf2fdc119f6272d0fa3e5b4e583a.jpg,Pulmonary fibrosis,abnormal
+22767,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7998e75d4e0f0ada2898d673c8ffecb3.jpg,No finding,normal
+11563,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2d6c36cb32352b891ef90fb11f3215f7.jpg,Lung Opacity,abnormal
+1211,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/89bab84561df6af7b88b6a7d05254725.jpg,Pulmonary fibrosis,abnormal
+1711,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6a4f9965e83bfad45d66d4afa5d28cc5.jpg,Pulmonary fibrosis,abnormal
+5007,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c672a5c07dea43b6f5dc88071cef0839.jpg,No finding,normal
+1997,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/11acc69b72d448e98a3c2a7d9e57618d.jpg,No finding,normal
+6615,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/324c95fc84fb0b3c3a8808fccb459434.jpg,No finding,normal
+121,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bdd0bebed953f69413213d387c9717e7.jpg,ILD,abnormal
+67269,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/323029b8a64431ac83ea6c71804f42c9.jpg,Lung Opacity,abnormal
+33827,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/980030eec2892fd979adc481d9675550.jpg,Pleural thickening,abnormal
+40130,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bd70da4bd62e734b349e5777d4dffb66.jpg,No finding,normal
+49786,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/81b2b950caf9b6c1f2ba9162f3fd259b.jpg,Pleural thickening,abnormal
+28043,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/140682923c5e674fdd682ed499986e33.jpg,No finding,normal
+18904,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2ce292377fa815713f392a7c3ae55d27.jpg,No finding,normal
+604,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/36bd6eab0e53e5b1c62f8c51fee5b892.jpg,No finding,normal
+8122,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4117133a86ed741c387d404a8ffe5581.jpg,Lung Opacity,abnormal
+42166,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c5c9ef1410c0bd298afaa43956761d4e.jpg,No finding,normal
+530,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/19e10a7d79e4a8803fae795e5ac4222a.jpg,No finding,normal
+5872,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/24a83567c34851d7e8dcdcc6bf2e2833.jpg,No finding,normal
+9170,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/429ce8e289547fe54bb229c3091cedbf.jpg,Pulmonary fibrosis,abnormal
+15189,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/212e39d070d362d7edc9b2bb2b3f6944.jpg,No finding,normal
+27635,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dbca1fb4fbbfbd6032a9764f3e922ad3.jpg,Pulmonary fibrosis,abnormal
+39743,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a33cd2473556d2cdfd77ba3d2fa78349.jpg,Pulmonary fibrosis,abnormal
+18830,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cf438b04b5e236c89e444dc78a6ce89a.jpg,No finding,normal
+6782,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/997018ea56a7f8300ed36818913a6c3e.jpg,No finding,normal
+876,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/96486c2488f9b4755798099db0d54a18.jpg,Pleural thickening,abnormal
+7274,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5c14a59e3c5e9f4c13a2b211011ca5ad.jpg,No finding,normal
+3679,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c405835a086b2f7d7c9ef3976b69e677.jpg,Pleural thickening,abnormal
+318,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/09df460412ce705d0f634436f518f46d.jpg,Pleural thickening,abnormal
+23117,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cc70119c353fbdb4cb890058219f2b8b.jpg,No finding,normal
+6293,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ca691809344aa18a9597b0d72fb8353d.jpg,No finding,normal
+3787,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8622dd9ca5c02271e81ebc135a602520.jpg,Infiltration,abnormal
+20776,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/63236a382e8f97864ea5af5d1c7a5d5a.jpg,Pulmonary fibrosis,abnormal
+11440,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9d17bc29af339d800b49518e9fdd0e72.jpg,No finding,normal
+1489,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4726c4907566b5876c5c1fc7c5e876f1.jpg,Pleural effusion,abnormal
+7118,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a3c773638d509582b402330499148073.jpg,No finding,normal
+39181,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/38e4156d00946746696b72f9bfa791de.jpg,Pleural thickening,abnormal
+11591,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/85ce3df7831fce5801ab5b798aa79c10.jpg,Pleural effusion,abnormal
+28845,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/931db73ff4ac2c9fba50f5d530d15c59.jpg,No finding,normal
+7415,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d08fe6d0819f1ca56bc29422f8d8a408.jpg,No finding,normal
+2233,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7c8d847576d1cf0c01a80cb13a2475d1.jpg,No finding,normal
+20245,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5b0c168a249db4242e705ede172bed4c.jpg,No finding,normal
+1294,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/45a68f734acda144c943624cce17124d.jpg,No finding,normal
+59260,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6dc54c273e24de333f3fdd060f74faa1.jpg,Pleural thickening,abnormal
+55433,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0cf8dd905fb4f2f876eb241bf67add40.jpg,No finding,normal
+2942,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a3e59ba8d8ef9b10e5bca535dff74591.jpg,No finding,normal
+29554,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b761841b1bffc40e56e97a869f994f69.jpg,Nodule/Mass,abnormal
+14749,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/31ffa866e091965da25a408b4cc7d0db.jpg,Pneumothorax,abnormal
+37641,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3632f480862bd078d918d0a8c1ca6f5.jpg,No finding,normal
+38352,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a335bf71ad32a097557e379b6113ce9.jpg,Nodule/Mass,abnormal
+1173,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a386c477e7330e967b23747cecc77973.jpg,No finding,normal
+960,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f3fc4e540d940916de69e6a7e928cead.jpg,Pleural thickening,abnormal
+25441,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5b1ca661c257f3ab27cb8d43b7770fab.jpg,Nodule/Mass,abnormal
+1029,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/67d78accb5656a6e435a912ca941c27e.jpg,Pulmonary fibrosis,abnormal
+22778,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/faee101f42575236fa16f94ae5a8851b.jpg,No finding,normal
+6156,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c6a7e3c733bd4f4d89443ca16615fc6.jpg,Pleural effusion,abnormal
+18340,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a673256f7b975e11bf89dbb29f4565b9.jpg,No finding,normal
+3078,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7b87ff45f630da27a103b7e587bc6fd1.jpg,Pleural thickening,abnormal
+8586,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b35b40fca325eb0e9e5d699e6ef55d4b.jpg,No finding,normal
+23114,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9822d3f2c751dcc995ea4d827e63aed9.jpg,Pleural thickening,abnormal
+12988,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8565824b9fcef8da112174a0f064f1e3.jpg,No finding,normal
+30111,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c13ea27c757349013b4d2785bf5c8638.jpg,No finding,normal
+25243,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cfde4e4df35ec98329ebcbfb67c7a2e6.jpg,No finding,normal
+15825,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/82d795cc4df910cd90ac23ddfb36a7a7.jpg,No finding,normal
+7571,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8749d0d77fb1a81d7cf69ea0d302ebbb.jpg,No finding,normal
+6638,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/de7de41f2a0c21dc5fa8c1b3e05f469d.jpg,Pleural thickening,abnormal
+42668,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/be92ec2aee088c56d3ba79598461cb9a.jpg,Pleural thickening,abnormal
+16441,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/28936b1a86428a44f356135a896b8627.jpg,Nodule/Mass,abnormal
+7106,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c34e6aa7a5db3386850b830dd3c45a98.jpg,Pulmonary fibrosis,abnormal
+13208,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/acf77cd6d5785f7f95c041f350c9d017.jpg,Nodule/Mass,abnormal
+3765,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2be93a3c2bd9a086a39c3806e1811356.jpg,Pleural effusion,abnormal
+4792,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3623eea22ab15bd3cc7901e3c00695de.jpg,Pulmonary fibrosis,abnormal
+14081,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/09175449df9374e0f6afe517f7b6249f.jpg,Lung Opacity,abnormal
+11624,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/23e6a92570c055afe532d1b66688938d.jpg,No finding,normal
+9258,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3088e1910bee181e42e6e4ea97f4371.jpg,No finding,normal
+23043,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0a16dc6491142ff8c7c36f3b3f4ebd02.jpg,Pleural thickening,abnormal
+31222,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5fcb51e92240ed72f422d66a71c2bb44.jpg,No finding,normal
+5407,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2925f7ce2925a44c3ccee312861b0dc1.jpg,No finding,normal
+406,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e694841193437bcb89ad2c1acbf95f79.jpg,Infiltration,abnormal
+10318,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2ba5ad966840cccefedf8898d71935a6.jpg,No finding,normal
+5858,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e8c26669bc2c2e4b0897bd792ae87b5.jpg,No finding,normal
+1032,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4ccc63ecf9efef91deef0f5849e3ad34.jpg,ILD,abnormal
+20474,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a8712873fe9accd992e9b306cf2d1f25.jpg,Pulmonary fibrosis,abnormal
+1291,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a2a8071358cf2858d45596364fd4ec85.jpg,Calcification,abnormal
+18347,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d9c599b10c98143b8e2e282ea76c0fc2.jpg,No finding,normal
+590,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/11cc75f11d95fb1ca9bfff79b119a47e.jpg,No finding,normal
+7381,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ecf36a90601939ea964925fce1f0cc41.jpg,Pulmonary fibrosis,abnormal
+2427,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0e093fa90e5be5666cd396d722cc84ac.jpg,Pulmonary fibrosis,abnormal
+8743,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e8ca05fa7b88b631365f7777beaf5449.jpg,No finding,normal
+25479,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2c223ca77aac52d4300da000ba30c7d8.jpg,No finding,normal
+6554,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f7793fee61ea241a3fc07b927e4914f6.jpg,Pleural thickening,abnormal
+5649,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9c89004f6827ca42cc151098ce8bd986.jpg,ILD,abnormal
+8818,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/289267f94a0bb624a41647870f180bd2.jpg,No finding,normal
+3498,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2954986a6bc846398d3cc9bc2297ed84.jpg,Infiltration,abnormal
+19888,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f25c0dd32bd07894695b8c1f709872ed.jpg,No finding,normal
+35884,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5cd3d07115d7ff6d430bf1ddadf794af.jpg,No finding,normal
+29862,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ae63abe8b57069faacc9d0a7beb8e1d.jpg,No finding,normal
+6710,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ac242065edfab4f95bd080fb266f6b42.jpg,No finding,normal
+74,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d77ef79ee4580a65dcb1e0e26b91d017.jpg,Infiltration,abnormal
+15447,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e7136e97a466963b452941e91b6330fe.jpg,Pulmonary fibrosis,abnormal
+35763,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a81a7e1e47c037dd48b99840567e79e6.jpg,No finding,normal
+56462,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e682cb1be531ca41c0e04e45c227797.jpg,Pleural thickening,abnormal
+15969,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/02222df826791117f315ecb2b58c5b69.jpg,Pulmonary fibrosis,abnormal
+17913,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5d911ff93f3820e66d76ffe822300426.jpg,Lung Opacity,abnormal
+24840,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aaa6b4c3a26881de53a602686940b4e1.jpg,No finding,normal
+23034,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/81a095d04f870581fd87cafb1116fa83.jpg,No finding,normal
+5962,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c2d843a231c6aa30c9239083bc612f7b.jpg,Pleural thickening,abnormal
+17370,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/abc391a77ac9c66e2c6272331c329764.jpg,No finding,normal
+5971,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ef3aa4dc726f1f72da7aad1624eaced2.jpg,No finding,normal
+12040,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/19d5846964503f1a79a552700b59e371.jpg,No finding,normal
+31219,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c146dbe6994061fbfe065c90af94f973.jpg,No finding,normal
+17842,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ff1b4b5c1c0b2a7b272cbd8d05b3053.jpg,No finding,normal
+10931,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a838e79ba2e9716bc790a76f7ae1c94e.jpg,Nodule/Mass,abnormal
+4480,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aacb56677ce974f054fdb59c5c39af10.jpg,Calcification,abnormal
+11649,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5fbd9ec40c94b836b9be919e2688264a.jpg,No finding,normal
+14036,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a7eaf74178c4aca851e331b2c8503ff1.jpg,Pleural thickening,abnormal
+18514,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e6a08696962a275ee2dd46d9ae1c6150.jpg,Lung Opacity,abnormal
+40474,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ebeb63bc82c36b61deb81d59a0e17a1.jpg,No finding,normal
+2034,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2860567dbd5d3f2597072e0b0e45ccd6.jpg,Pulmonary fibrosis,abnormal
+17512,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a8234567b95c404365745b9fb0f4859e.jpg,Pleural thickening,abnormal
+17388,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/54c9360c74659a1e35ac10e4a4852243.jpg,No finding,normal
+31212,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/366c964d0b246205ffdc97b09df98df7.jpg,No finding,normal
+17265,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9d7593d2ecec04359396db7bef01e710.jpg,No finding,normal
+25663,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6e760fab7cd2df84ec90f6bec89dc75e.jpg,No finding,normal
+39709,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8a1194107e6ab9101402512dba498e8e.jpg,Pleural thickening,abnormal
+5612,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1fce42f55a0de66eb161fc831cd33cc3.jpg,Atelectasis,abnormal
+4978,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bb8187ca6bfc5609cfdd4a0ac861e4c4.jpg,No finding,normal
+58747,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/634fa8f5318dbf29297571e88e8a6d88.jpg,No finding,normal
+118,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/604340ab6423f81a91ac72182163e9a4.jpg,Nodule/Mass,abnormal
+449,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a1fcf5a5313b721f2fdbfee711bb098.jpg,No finding,normal
+4387,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8be5bfabd547e1ef91f0b0b7b4d597d4.jpg,Nodule/Mass,abnormal
+33575,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ed791871255da9b06dca81711f3f007.jpg,No finding,normal
+20878,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41dd971752ac364573f2da2ac932e653.jpg,No finding,normal
+10094,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0b1ac7f8267aa361183b90592618945f.jpg,No finding,normal
+10578,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b809bc79ed36a280bbf206bb26b0017b.jpg,No finding,normal
+59056,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b5fa2fc3b3e2a3bbf93884481fb08b74.jpg,Lung Opacity,abnormal
+1401,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6e4915e84e38de5d90efe0ecfd8f2cf6.jpg,Lung Opacity,abnormal
+1207,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5045cda9aba2d22df0b9a26dfafa73ef.jpg,No finding,normal
+2521,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/806c1d836d96096533f0c5ab3b0c5a7f.jpg,No finding,normal
+34637,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ca34f0aba12135845cac8922ffae83d.jpg,No finding,normal
+4185,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/26d1d5a0ef2e692c6340e74859ffdc53.jpg,Nodule/Mass,abnormal
+30177,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bf429fed8c01a5d6014d86f2aa3385fa.jpg,Pulmonary fibrosis,abnormal
+5043,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/db0409f17482d968dc350ae12a91d913.jpg,Pleural thickening,abnormal
+13017,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/60777cca3cc074eab3f5793f9f54a694.jpg,No finding,normal
+2166,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1951e0eba7c68aa1fbd6d723f19ee7c4.jpg,Pleural thickening,abnormal
+4333,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a482ab3e62dced6f74ca55798f054cbe.jpg,No finding,normal
+10584,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/21bae649fec6b45507d40df2c1125776.jpg,No finding,normal
+16031,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f289d19e4b47b6f38bc2dca65d2d40bd.jpg,Lung Opacity,abnormal
+2631,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/be85b7d55e0ef589729ef4dd6ffc38fb.jpg,Nodule/Mass,abnormal
+13857,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6f751fcb085b56e3e53a3bca83810db5.jpg,No finding,normal
+3432,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ca54618517f7f62c6267db17ee8d3261.jpg,No finding,normal
+11319,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/033e1637bed9b9f3dccac9c6c419adc2.jpg,Pleural thickening,abnormal
+41431,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2201904fdc9c81df726cb626bf58edeb.jpg,Pleural effusion,abnormal
+3701,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/36d12290ed702e358cabe1d85657dafb.jpg,Lung Opacity,abnormal
+16947,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d4b90ad0fc4ec32c9bc80a3b5fb6d441.jpg,No finding,normal
+5527,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b78367d7be3c92afe88f13efcb6dcaf5.jpg,Pulmonary fibrosis,abnormal
+14193,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ace8679282aed8bfb0586dc2ece0a75b.jpg,No finding,normal
+27012,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fbda3ef47493765e3d705185bf5c9538.jpg,Pulmonary fibrosis,abnormal
+26091,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d2bf100975851a741b3770d128110fdc.jpg,No finding,normal
+25358,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3fd5a48543be08bc92fbcaa0971cf50e.jpg,Pleural thickening,abnormal
+43702,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4048b7c004a515c6954fd84448a652a1.jpg,No finding,normal
+2464,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/68f347bba1a73081fae36215e7bd19d0.jpg,No finding,normal
+3594,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8bbf80bd095c75b2207ef57a277a661d.jpg,Pulmonary fibrosis,abnormal
+11997,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aeec3fae5f68905d2b50d90008281801.jpg,No finding,normal
+39151,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/13df80547c48fd7d14d22e9322f4a17d.jpg,Nodule/Mass,abnormal
+1357,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/018a2fe44c3451281ec338c27ecc9c53.jpg,Lung Opacity,abnormal
+36141,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/932d244bca353f89e7b19a22d01372a9.jpg,No finding,normal
+7308,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8de556d9cd8d026b8eba03870cc6acba.jpg,Pulmonary fibrosis,abnormal
+16552,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eedb247767ce38e4dd2498c5dd56dc11.jpg,Pleural thickening,abnormal
+18688,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d8df1cd5564e9a9f4d72b17049d5d79e.jpg,No finding,normal
+13738,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dc31ce81fcf53c987f2c8ddcb8c162d4.jpg,Infiltration,abnormal
+819,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/56e20d0fd42340b7d9e10a381a5bcd5b.jpg,No finding,normal
+25617,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5c58db1eba882ffdcffab9fc2259b25d.jpg,No finding,normal
+19281,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7f2a886ecfb1f3c857c7565ec764290b.jpg,No finding,normal
+37585,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d7c74a341abc7d3ea523821a6a0fe16d.jpg,No finding,normal
+19754,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bf708c6de53f4a81400c8302ea60e160.jpg,No finding,normal
+21863,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/28439c0a4f24e1319b22dd12b8a56a14.jpg,Pleural thickening,abnormal
+17785,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8609affe56a5bec4ab3e7f51d06f2d54.jpg,No finding,normal
+1515,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3f3acd7f9f383c01b4392b8dd8bb8f10.jpg,Infiltration,abnormal
+1178,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/31af27bea5a4823c141f3527fc50fbd3.jpg,No finding,normal
+4024,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6949ec318132a36d802e2cb19cc5622b.jpg,No finding,normal
+13039,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f1dd9b481aae4ba412e5fbea06215f53.jpg,No finding,normal
+5699,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b5d706a106a7eb6e945cbbd4a2951b45.jpg,No finding,normal
+17465,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8cd5124a10bd961bdfe94efb8bfe46a1.jpg,No finding,normal
+18714,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e1c0b0ced144d120031e7f60048bd3a0.jpg,No finding,normal
+32237,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b32a218326ec600eb1bdc3297eed2c16.jpg,Calcification,abnormal
+1865,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c6381405ae634e4193e08fa8b3a51ec8.jpg,No finding,normal
+16870,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/11750f2005f2f50d592c5c5cc145fdfe.jpg,Pleural thickening,abnormal
+11065,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/10f28558b1667b3d30d9e4c44f7a5bc6.jpg,Nodule/Mass,abnormal
+14647,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0d0a7a1b8c1495d66ac9c427a36d9f6f.jpg,Pleural thickening,abnormal
+16622,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e102c995058060f394b532a81bc21011.jpg,Pleural thickening,abnormal
+8340,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7d1d6c683513c07e91b0f5342a9e2cdc.jpg,No finding,normal
+24816,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5256b4da8d8737661f6ee1e3baac89bd.jpg,No finding,normal
+5383,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c4aa9f4f97ba03ea7aa610e204119de2.jpg,No finding,normal
+5478,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1d98ca466a4d9f4103a5f4b9970f8e90.jpg,No finding,normal
+14484,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/09f0b00bd079304f72c079d369925aee.jpg,Pleural effusion,abnormal
+1326,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cf32a2bc41deeb7436a36bcc4ff324fb.jpg,Lung Opacity,abnormal
+6094,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/64f4fa78d723ad71e2422bc74bcd38f4.jpg,Pleural thickening,abnormal
+6005,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3d51d381e84870cd453748be166fb7ce.jpg,Pleural effusion,abnormal
+13352,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fac75d8df144493c44c741ccb0efba3d.jpg,No finding,normal
+32279,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e82afb6d5a714b72022b53e0b94b9d6f.jpg,No finding,normal
+11864,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/17dc4a83558d835efd5f7d6f110f07f3.jpg,Pleural thickening,abnormal
+5501,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b2d24152edd17675c23d5cc4c9e92a02.jpg,No finding,normal
+6183,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f4ffbc6f8ced17c735923931d73cd9cd.jpg,No finding,normal
+8224,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dcb081bb5e1dac41000e96fc37c8c322.jpg,Atelectasis,abnormal
+8396,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e719b0f794aebc789651fbd91ade8a05.jpg,Nodule/Mass,abnormal
+315,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/df2e21b90ce0510ed66e161136cf60ad.jpg,Pleural thickening,abnormal
+10573,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aba445ebea68177bc4f3a519ee27daff.jpg,Infiltration,abnormal
+12770,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/53cc2213fa45ed495b6a724458d47b05.jpg,No finding,normal
+17217,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41edfafbee9a7e720ea9ce7105b5b3eb.jpg,No finding,normal
+16767,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af6c2af494e80270066b4d883e5ba1de.jpg,No finding,normal
+11544,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/31bdfdc7f6e09f2df77cefac8e857518.jpg,Pulmonary fibrosis,abnormal
+20133,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c7fd5b900fba01294ce9cf71d15ff9b.jpg,No finding,normal
+20979,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8f9d7553d513eef9bee8ed9ddf5db054.jpg,No finding,normal
+469,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad0fa9668da66d13e4d8cdbd7d9b215c.jpg,Pleural thickening,abnormal
+467,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2d4a3f928bbd1cf6cec20fc617af2fa3.jpg,Pulmonary fibrosis,abnormal
+18550,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3d1eabc4bb5b66d92f3fae7ddb67b29.jpg,Calcification,abnormal
+4051,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4c5bf28c7cdb9d7c5ac93c78bbd7bdef.jpg,Infiltration,abnormal
+9900,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f9192d70b8ae33af5fa02c6764e7457c.jpg,Pulmonary fibrosis,abnormal
+18537,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4db952de1d3c2a13cc9d7bad1a7f1570.jpg,No finding,normal
+17491,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad7406ca14d69d62db43ff0afed1d042.jpg,No finding,normal
+560,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6f8e0af5fff2c4c45f6eb841a4221235.jpg,Pleural thickening,abnormal
+42500,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a64fc5cd6dcfe7e66a5b64f0b313cfa3.jpg,No finding,normal
+2446,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/412fc134e3193cefce521a751c3b254f.jpg,No finding,normal
+18821,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2e426ab34288f1f7edba1c73feb45a05.jpg,Calcification,abnormal
+18429,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cc6fc3c91c3d9061b11b65f8257a2ad0.jpg,Pleural thickening,abnormal
+1540,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dfd76389ed6cea0f068e2ed76bf43bc8.jpg,No finding,normal
+9706,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1e717af900c3f539f967ad27b1ce905f.jpg,ILD,abnormal
+6970,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41c40fd3bd0719e48290cd6f3485ca77.jpg,Pleural thickening,abnormal
+1302,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a593d4aa6d8d9dbe2139c6c3889535eb.jpg,Infiltration,abnormal
+8723,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7c2e1c2b8ddcfaeae966c23615f01546.jpg,Pleural thickening,abnormal
+24597,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eb384402d0dee9dc9818a0b65681bf67.jpg,Infiltration,abnormal
+2985,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/351057b882a88cbeaff0529e7c6b80aa.jpg,No finding,normal
+38129,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/da648f4e3bf110e8c31b0fd1859c19c2.jpg,Pulmonary fibrosis,abnormal
+30902,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e1bd0bd8f1ba0f7f7ae31a24968282a8.jpg,No finding,normal
+52844,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7eb40f6abadc14f9b9f195c674cc2fd7.jpg,Pleural thickening,abnormal
+3452,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/dbfef57fd633c41115e99541197445b2.jpg,No finding,normal
+12842,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/038a29d3e340d8ab60644826c14596db.jpg,No finding,normal
+5447,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2e634940f1e54c351390adc796441c3f.jpg,No finding,normal
+3162,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6a21c27cbd42e68576a134fca3c0266e.jpg,Calcification,abnormal
+523,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/edb61d8f85f46f6da703ab9730bf35b1.jpg,Nodule/Mass,abnormal
+7400,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa6be3acc3d8613e0f7f84821425a2b4.jpg,No finding,normal
+24646,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0423124ca41c984335554a43267db7fa.jpg,No finding,normal
+807,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c0f992e23de30afb875371c3630cb9af.jpg,Pulmonary fibrosis,abnormal
+9040,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4004f114ab2ecb224ac7484957b79ea4.jpg,Calcification,abnormal
+33441,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92dc3338237be8788f0923046be4f657.jpg,No finding,normal
+12349,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41fdc5f2d25a364bd7f525ef84fb731c.jpg,No finding,normal
+41330,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/16a244c7bc07097bfb5a24f2318ae538.jpg,No finding,normal
+2306,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/78ea1df200023de69c0cf9d0c8a28658.jpg,No finding,normal
+7983,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c50bb66530634bfac9d5487a607e8211.jpg,Pleural effusion,abnormal
+56039,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/84b3b3b5c73b0798b732b4f34f84ca05.jpg,Nodule/Mass,abnormal
+3668,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c772fcde08c1e9cb49ab6c11b8fe6e42.jpg,Calcification,abnormal
+7321,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/20fd9c6560ee942cc79b057b0c8709cb.jpg,No finding,normal
+12052,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a137951bfa9be68fec6cb6ef0a679d20.jpg,Pulmonary fibrosis,abnormal
+15924,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/952b065c0aac9ab20a9bcc051987a00f.jpg,Lung Opacity,abnormal
+6539,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b11960f23db725bb4ba6f6741586a5f7.jpg,Pulmonary fibrosis,abnormal
+3345,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e8605a691bd8149aad332a64fce5dcf.jpg,Pulmonary fibrosis,abnormal
+20087,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/05dfd35f424da60897dfafc2340e0891.jpg,Pleural thickening,abnormal
+8893,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/508083b00dfef2ea10fe2aebee580990.jpg,Pleural thickening,abnormal
+1598,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2d817e7d481f611ed33a74e5cba97550.jpg,Lung Opacity,abnormal
+535,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d65e8ebeaf0add8c9491ba9d8b35931e.jpg,Lung Opacity,abnormal
+5193,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/34c83a38559d01f09ab25ee8ffc79511.jpg,Infiltration,abnormal
+13059,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/77d62e6304de7f244ac509794c99b483.jpg,Pulmonary fibrosis,abnormal
+2408,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/902d77e0d68673b7f8d12a3ab1483b95.jpg,Pleural thickening,abnormal
+12583,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b87b691b9ceeaf0c9539b2844be6e1e1.jpg,Pulmonary fibrosis,abnormal
+9751,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa29bc55f17cdea1fe2eec7e0a28a8b3.jpg,No finding,normal
+33053,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/82abfb14f5005512eeb5a75b0cd5bae2.jpg,No finding,normal
+167,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/102a115e13edadc89540c060affec761.jpg,No finding,normal
+12123,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7d746268923b15615c93334eff3a6baf.jpg,ILD,abnormal
+43936,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f356caa9aae421a22704f79e158e4321.jpg,Nodule/Mass,abnormal
+6771,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9a3d018df521eaab6b4eec203a19970b.jpg,Nodule/Mass,abnormal
+5741,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b359c14158afff8ef7d00c59d2211ebc.jpg,No finding,normal
+8759,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/562c018c763496c3bde0f378a7e6ce95.jpg,No finding,normal
+643,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/76f60361e862c32200eb9c6fa5686124.jpg,No finding,normal
+1989,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/25207f1f73016eb9d84327860e5c9b49.jpg,Pulmonary fibrosis,abnormal
+51324,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ff45df5e7c2a2724c532d13eba7cde2f.jpg,Pulmonary fibrosis,abnormal
+5696,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3c7f79f9a904282f9dbe9b625216cffc.jpg,Pleural thickening,abnormal
+37672,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3f669836a20bb2a8ce9ad0a90e49d5c.jpg,No finding,normal
+138,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a4fc9faa46af26c5fc462772d88d0af3.jpg,Pleural effusion,abnormal
+30713,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ec170e7aaf33f59cb30c51a86232fb0.jpg,No finding,normal
+21386,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad6c4a175af14df7d2aee8143473541f.jpg,No finding,normal
+16644,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/988a477355123d676ed1ac052558fb98.jpg,No finding,normal
+5265,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa7b469e21cf7a4e7afe9f17cf721259.jpg,Pleural effusion,abnormal
+3676,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4d8a51ab3ebdb9b9f91c373b56b5d7f3.jpg,Pleural thickening,abnormal
+9386,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b8d9fa1b48f97af1ac25015629c03336.jpg,No finding,normal
+297,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e75fdf059e59a1560645965b64f51cd2.jpg,Calcification,abnormal
+13218,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c98d4af5b470036d9313052806986d19.jpg,No finding,normal
+2424,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c723c6ffb2f746dff02c9538c6c593f4.jpg,Pleural thickening,abnormal
+8710,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/230089e37547436f78d31e27470000f8.jpg,No finding,normal
+22533,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f5f0081e8dc7596b38083e2b7aa4214a.jpg,No finding,normal
+1728,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7843d738403483be7fdb9fb677aa39c3.jpg,No finding,normal
+5887,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0a0b773c653cea6653a1e02faf1566a5.jpg,No finding,normal
+4312,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8862ef75274d0c13bba19d7b5f2147c6.jpg,Nodule/Mass,abnormal
+219,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/014e3dd712dc90f61da7ce8747d8c4c0.jpg,Pleural thickening,abnormal
+9725,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92e79511cf61feac9fb92f92325c0a19.jpg,Pleural thickening,abnormal
+10466,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5f969b2d21c7aaaba017153227f99b9b.jpg,No finding,normal
+14985,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cb23c75b43410b0ef6133d9979fd5c89.jpg,No finding,normal
+27439,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/84e9f232df2236e9dc7f7f472ff26bee.jpg,No finding,normal
+3159,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ff924bcbd38f123aec723aa7040d7e43.jpg,Pleural thickening,abnormal
+20441,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ce4169ac820450d4a18f4d9d33d40f1.jpg,Pleural thickening,abnormal
+2243,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ddfe291fa3e2d21ce8681a2e9e4b300a.jpg,Pulmonary fibrosis,abnormal
+51257,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/879656901f9848794e044453b39523d9.jpg,No finding,normal
+4903,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5607b311945b0e6298a0ff1199ede0dc.jpg,No finding,normal
+41318,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/92c14158ad4ee88ff2e43fdae12f47fc.jpg,No finding,normal
+31714,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/05cf1a6a9865043c51e6155474f11f81.jpg,No finding,normal
+1498,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7f96d122bf50434dcfd3dd9b16d2c05f.jpg,ILD,abnormal
+1850,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/21d0e0bb639ebec0b2a2ce0c5c805344.jpg,Pulmonary fibrosis,abnormal
+12638,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f7035a18be2e45b719e82054b259ae17.jpg,No finding,normal
+8681,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/150cfe73d6dd162e02e1bc799a9d71e0.jpg,Pleural thickening,abnormal
+12773,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/271f9008a6ac0c2fbed2ee6d40ff8750.jpg,Infiltration,abnormal
+56518,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/16041095041e6b5afb13e8da17bf45b4.jpg,Pleural thickening,abnormal
+35183,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/38e987ce7d99adc13adeebb0ca3e3182.jpg,Pleural thickening,abnormal
+40055,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e52fdb7334e3e02e6e9ab29c3158e278.jpg,No finding,normal
+25551,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6fbeb3ec1ec16b267f98fc12cbab9b6f.jpg,ILD,abnormal
+29403,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2f5a677d35532e18388a9993ca166a80.jpg,Pulmonary fibrosis,abnormal
+7279,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bace601f50d2f324022ae6a9ad608123.jpg,Pulmonary fibrosis,abnormal
+50984,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/48273ebc8a590c8874f821ee05165353.jpg,No finding,normal
+33639,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1627d29da4760776632c69d73237b6e2.jpg,No finding,normal
+16837,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cefc63f9ff49d9da82c49144f05a13cd.jpg,Nodule/Mass,abnormal
+1108,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/20d9e4989fab7ecae4243324d81ad309.jpg,Pulmonary fibrosis,abnormal
+16243,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/411720e11033999fe479d1c1a66819e9.jpg,Pulmonary fibrosis,abnormal
+38581,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a76703a9a5a6459ca0c4ba8407403bc0.jpg,Pleural thickening,abnormal
+3476,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fa1d691e369b258e948303634d83b2f6.jpg,Pleural thickening,abnormal
+2701,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3dae58e1cf69a2284f2a44ded5c7405a.jpg,Lung Opacity,abnormal
+1254,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/44b30aa87ad06bd8263adbaab603da4a.jpg,No finding,normal
+16809,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/56fa9e8f5419bb11f3e27c7529895684.jpg,No finding,normal
+7977,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41ebb4e4b4434bb495434e6a4026c9d7.jpg,Pleural thickening,abnormal
+10262,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b7837ea29dd8bd1386f09cc1474320f0.jpg,Pulmonary fibrosis,abnormal
+7142,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7ece84e40353ac77a296eb5f03dbf25a.jpg,No finding,normal
+448,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b9b2a7a46b88db57379c59db58cc2228.jpg,Calcification,abnormal
+637,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f0c719e77a94983d22ad4a1e96e37f34.jpg,ILD,abnormal
+16276,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/26c01c52f6f344050822135d89b0a8c3.jpg,No finding,normal
+7676,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/84baca7ccea00d8087be7b834603a5db.jpg,Pulmonary fibrosis,abnormal
+15611,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ebd09e28619c48589667fe0b3bde9e3f.jpg,No finding,normal
+11909,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c9380a132776f6d999ed5a72a1212bcf.jpg,Pleural thickening,abnormal
+8038,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b7145f927cf8cdfbed0edea14f8f15fc.jpg,No finding,normal
+18120,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/898fa1a6cd5528a57b55465f0389aa96.jpg,No finding,normal
+735,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9eba0d101f410f9cdfae46cb094ae2a6.jpg,Pleural effusion,abnormal
+18322,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7f301a8a92df397f46768b6d226b45d4.jpg,No finding,normal
+1691,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9255e7154b30dcddd72f1f5ae6e46470.jpg,Infiltration,abnormal
+28104,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b0bef1b57611726c4b0c636264fe5061.jpg,Atelectasis,abnormal
+16361,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7aced9c5d410a657c1f2f3dd9689711d.jpg,No finding,normal
+31347,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6917489611bdfdf75a56fa22a8c7fbe3.jpg,No finding,normal
+7048,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2dae0b56a64f3708706e63711d970243.jpg,ILD,abnormal
+24664,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b15b9b1b0af05f9ebdf361407582a541.jpg,No finding,normal
+16444,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/46355182cba3399f341d1cd6474f45ac.jpg,Pleural thickening,abnormal
+26,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/63d5b6f568f005932b9246bcb40eee68.jpg,No finding,normal
+33028,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/879b67422e230216509d2bbd6c0cb470.jpg,No finding,normal
+66873,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1b44e26dcb2892268d5326bf44ccd2b3.jpg,Pulmonary fibrosis,abnormal
+32484,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1a91a7af5c6ba164481c91f3fab7b1b2.jpg,No finding,normal
+28087,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2dfdd83451da9f82c3d926615630dd62.jpg,No finding,normal
+9781,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e3cbb3460e37bd5418cb4bc23c07af8.jpg,Pleural thickening,abnormal
+1088,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9e90a23fb8d5ce13eb766d538afcafea.jpg,Pleural thickening,abnormal
+12422,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/586dab2fc5296b27dde17df1337bb8f1.jpg,No finding,normal
+31086,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/715278d742ca1d668e20ffab02e7fe36.jpg,Pulmonary fibrosis,abnormal
+1104,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8a454755517a41861d07dd898e6572a5.jpg,Infiltration,abnormal
+20691,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f7af8b53e0563d516aa27a23bd2836b.jpg,No finding,normal
+20994,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f303e9ce4317b94d1559237e6e9e0643.jpg,No finding,normal
+2616,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d5a12f4363fc2a15bbc8214e39e2253b.jpg,No finding,normal
+904,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7db70125d7739e6cd0c442e7b7592d4c.jpg,Pulmonary fibrosis,abnormal
+920,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0c76c19b3f015e0387dd2adcbef86182.jpg,Pleural thickening,abnormal
+27653,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cd42d4220f19d14291f1cf7c2a194f07.jpg,Pleural thickening,abnormal
+15946,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4276a13328e1ca901cc4c3810923933d.jpg,No finding,normal
+21742,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/84073a6a8201f339407be82dda7e1303.jpg,Pulmonary fibrosis,abnormal
+6320,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d3dfd38de2eecc6492fa8101d8245b76.jpg,Calcification,abnormal
+27175,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/485b010bf1dbb5616fcff89e4dc4cacb.jpg,No finding,normal
+15905,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/10ab7eaa1ef08dea7a899cc893564838.jpg,Pleural thickening,abnormal
+13138,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/00aca42a24e4ea6066cca2546150c36e.jpg,Lung Opacity,abnormal
+11188,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/441770ffd2e6994035b328f3db12cb94.jpg,No finding,normal
+3863,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fdcdbc6befee8ab9553039895835bad8.jpg,Lung Opacity,abnormal
+23329,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5ba3c5d4c87aeca558d9f2d452854085.jpg,Lung Opacity,abnormal
+25251,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/70ae292359ad785182a9cd214c26892f.jpg,No finding,normal
+4343,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7792774f9cce897c741875f11aad61e2.jpg,No finding,normal
+49640,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e746ee7a622d991a0c02b55efe234fb9.jpg,No finding,normal
+38298,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/25e99dd3d0a8e45529b0c04f28a31313.jpg,Pleural effusion,abnormal
+701,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3a813bd68c097cb009e6ef9d5f884489.jpg,Pleural thickening,abnormal
+1916,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6bd4b51f7f0d016f291b40f40e1bde20.jpg,No finding,normal
+7833,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/85c5077db75674eafc432cd315a343b5.jpg,No finding,normal
+2883,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/388f466e82d76282997f1552eb1f5e02.jpg,No finding,normal
+17470,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c5b91a5da65cbe88cd0e7c27b49cebde.jpg,No finding,normal
+51444,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c21c6e6969dcd46d9441110183ade633.jpg,Lung Opacity,abnormal
+4976,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/678219cc34c08e4b184dbe73ef52a680.jpg,Lung Opacity,abnormal
+4876,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/90a27c3ac3327ddb800b2ae9bcc27ac6.jpg,Pleural thickening,abnormal
+6130,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4268985caaa0bb4145dd056d5aa84b27.jpg,Nodule/Mass,abnormal
+31062,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3145bee8f1346fa89938289eedd7b05c.jpg,Pleural thickening,abnormal
+29364,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f04009cd2bc235cd6fb8753b609cfe43.jpg,No finding,normal
+8954,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/43e374ced4e444b4e6df22daca20b3b7.jpg,No finding,normal
+13113,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5ce51b1ea387faab9ecc60c1b35f9666.jpg,No finding,normal
+22989,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/427693347c93b01e186e65ddabcc01b0.jpg,Pleural thickening,abnormal
+17596,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/15332c15841ea8bcc7bd02788250374e.jpg,No finding,normal
+7847,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b1e31fb059b5a49bb70bb4f274c56841.jpg,Pleural thickening,abnormal
+2541,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8be157ed11fc1bb06d77637ae7da43bc.jpg,Infiltration,abnormal
+4403,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b6cc4831c033f204cdc1a81f821c6f77.jpg,No finding,normal
+21070,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e3cc7ffdbe05d3b7b1696c8a2a61a61c.jpg,Pleural effusion,abnormal
+18654,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b3d63ed3990561e00d7bbd11e42568ac.jpg,No finding,normal
+4065,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/02fb30c1dd4e6ba448c8bbe4685b77ae.jpg,No finding,normal
+12267,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1de4bba4cf4240d8196c6e3f0f93f865.jpg,No finding,normal
+27362,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3f083f710e5cf1497091bae4b0ae60ba.jpg,No finding,normal
+25037,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0f8a78e1090c840b4455772fe92d7586.jpg,No finding,normal
+13650,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cf959acfa91add68f9f4b35aca1abbce.jpg,Pulmonary fibrosis,abnormal
+5710,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8de2c306ed9fa7c44c70d249af346d9b.jpg,Lung Opacity,abnormal
+249,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0abd4fc2425edd5c2efb2c149e9319c6.jpg,Pleural thickening,abnormal
+6677,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/659c6031ed4b7d875e5e14662eb50bf2.jpg,Pleural effusion,abnormal
+270,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5e371616866f2d786b8a5200370d60a1.jpg,No finding,normal
+15315,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/33eb7cc412dbf243e6ef000dd8c56c8d.jpg,No finding,normal
+4593,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c862c97fc685115573fc5e6a4d3cae9a.jpg,No finding,normal
+13342,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8a81e64b8258068648760ba016d0d3a6.jpg,Infiltration,abnormal
+10728,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a848e44e179f5e9b7d708835cfa5109.jpg,Pleural effusion,abnormal
+1342,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6d47aabfec517967b9b34cb52a4d5064.jpg,No finding,normal
+39124,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cbcb95889f621abbd2e9b46220267c98.jpg,No finding,normal
+16681,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9b00eeaa317747fe5d908526e1268393.jpg,Pulmonary fibrosis,abnormal
+38750,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/91e4d6c6f6b7527f7963c2ed2f947a4a.jpg,Pleural thickening,abnormal
+1284,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/952b45e292277cdeec3873a510360fec.jpg,Pleural effusion,abnormal
+27538,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/088d83359d1a00ba24251220ace42edc.jpg,Pulmonary fibrosis,abnormal
+8567,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d461101a96937c7b9f6d97314b66ac7b.jpg,No finding,normal
+38869,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2e37a70ea49570b31cb4b83e5a109a7e.jpg,Pulmonary fibrosis,abnormal
+2757,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ef9ba80e23c77ad5c619e74bfbdffd8b.jpg,Pleural thickening,abnormal
+880,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/87c3cdf9d5dab832b01f2c94321e3130.jpg,No finding,normal
+31921,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2d377f5b2bd10b8ead268046859d939a.jpg,Lung Opacity,abnormal
+14545,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8fd4e7599250d006e579f1ffcb28b1b1.jpg,Lung Opacity,abnormal
+2107,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c3a7cdd9fb36706cfd3a4fdb86b65061.jpg,Pleural effusion,abnormal
+2235,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5d8c27abe7add51ed3ede20c7d091f16.jpg,Pleural thickening,abnormal
+10209,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e32bf14c4f6930efc80bfd4f4147ac0f.jpg,No finding,normal
+8272,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d1eb013c56b49d88034915dbee6c5f68.jpg,Pleural effusion,abnormal
+6472,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bf123de5827d72ba0d0e71683bbe819d.jpg,Pulmonary fibrosis,abnormal
+4251,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7cf206f4cfa9f72eb70cd9d5d9200185.jpg,Pleural thickening,abnormal
+22317,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a2479854555891427600b51f4a1e8786.jpg,No finding,normal
+3723,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4f27cfb82f3a2cfab10232f1c9a34d06.jpg,No finding,normal
+8513,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c4179d7d6f19e1b4b27460c03810f651.jpg,Lung Opacity,abnormal
+623,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/611310e3e1ec37e73e74f1a756b3bb69.jpg,Lung Opacity,abnormal
+12229,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c9b1325abdb4561bdc52efec1b58dcf0.jpg,No finding,normal
+49735,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f94fc1f4e263bf33a9b1e9c4027a474f.jpg,Lung Opacity,abnormal
+2829,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e895c0a84cf6c38ffee0cfd5be9849fd.jpg,Pulmonary fibrosis,abnormal
+3641,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c60b87f681462b74b5cc58bc78f5b99e.jpg,Infiltration,abnormal
+1552,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c8f9493ed65b68adb82000cb7ca7baf3.jpg,Pleural effusion,abnormal
+12765,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/075e3ffe9e45b20229acc18e2d618193.jpg,No finding,normal
+2117,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a88c836e0c55edacc49699a8a0964d41.jpg,No finding,normal
+1666,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cb322c5c6294c36b7de62415ea35ae95.jpg,No finding,normal
+4425,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8c93071f4d3c65844fe16c44a12a7213.jpg,No finding,normal
+19965,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b92720c1db5273ee665145110dadbf1f.jpg,No finding,normal
+12661,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7b649e4493a1eb4bafe247b5e9403be4.jpg,No finding,normal
+11075,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f29df9890df1e30033396c8f220a9f14.jpg,Pleural effusion,abnormal
+6402,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9d512a5cbc6ca1d4dc83eb25ec29b8ec.jpg,No finding,normal
+1335,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/163898fbc57f00f58ad27e72031a541f.jpg,Nodule/Mass,abnormal
+8648,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e49cc23db589bc0acd59a8841128560.jpg,Lung Opacity,abnormal
+24225,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ed469a35361b49e04971347281bc312.jpg,Pleural thickening,abnormal
+14999,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0cbe760fa8204491c0bfa5574da82b90.jpg,No finding,normal
+23193,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c4f7b110380be6bee542f5c26c78f36d.jpg,ILD,abnormal
+12571,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f57a452f52edaaaf43d41c78f1f73181.jpg,Pleural thickening,abnormal
+13868,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/665ba9b5664d7055c1d0ac1a44ea1ea9.jpg,Nodule/Mass,abnormal
+16211,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/36172f7de00633f73845c217d3420091.jpg,No finding,normal
+17881,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5e90e76ac63c847409ad08821c7d5937.jpg,Calcification,abnormal
+8169,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5aad1179b1863fb90670f5051e4278cc.jpg,No finding,normal
+1752,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5de91fab780d937e6cba46c4e807bb12.jpg,Atelectasis,abnormal
+10097,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/41bce02542a90273d79a8cc6d214170d.jpg,Pulmonary fibrosis,abnormal
+7140,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/82c8e033e6fde13b0bf365370407d342.jpg,ILD,abnormal
+1519,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/be97043265be8c30ef57f278b3ca24b2.jpg,No finding,normal
+2154,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c4b5b6a8a11ef80d6406f0c5b4732d36.jpg,No finding,normal
+2088,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0ada863fb878555ffd8dbd34e2496f76.jpg,No finding,normal
+5816,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/eb504655d27862892ea7c99c352d5aad.jpg,Lung Opacity,abnormal
+18631,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8af35278acf65c3b634ae6f12357a2a7.jpg,No finding,normal
+15581,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c1ca66539955f94f6dbd74fb5ba7208d.jpg,ILD,abnormal
+18354,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/62895510090bb78cd33470447e1d98df.jpg,No finding,normal
+7396,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fc24ad13f52fb8b4135f5a18a982a1cf.jpg,Pulmonary fibrosis,abnormal
+25943,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/81e1bdd75db3ed8260cd2a8a206107a4.jpg,Nodule/Mass,abnormal
+9538,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d28f1f4fdbb37d98f802678fc174ff21.jpg,No finding,normal
+202,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/db49c96665f4fe0ff5f4420578e2f185.jpg,Calcification,abnormal
+3637,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/633a915d9f92edf4edc1c4a85548201f.jpg,Pleural effusion,abnormal
+3454,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/72bce8eed8324b1544f1698f56a2b0ba.jpg,Pulmonary fibrosis,abnormal
+20137,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/47413ec6c79b4795ea7849cea26ece84.jpg,Infiltration,abnormal
+16460,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/13046e5bf418ae5ddce8bcca73227a48.jpg,No finding,normal
+21148,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6aeaefce5f38f0dc5fef0cf9033670af.jpg,No finding,normal
+51,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/abb91bdaa9d02f50bde1eaa88e13afab.jpg,Lung Opacity,abnormal
+328,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b910d1cb5197d5fdb25c7477548766a9.jpg,No finding,normal
+25070,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6b1629617f13b37b41af2c15243bf277.jpg,No finding,normal
+28580,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2a5103cfbf52646dde4dab7e6eb27391.jpg,No finding,normal
+24266,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9b44eddd5b59cd65d92366f27290d949.jpg,Pleural thickening,abnormal
+25013,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/628ba9788c00a8fa5fd77992fa9f63ed.jpg,Pulmonary fibrosis,abnormal
+11124,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8e0c318f52d7e0d8f80c77b5c540b223.jpg,No finding,normal
+13709,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b6f07c3256419d2afece328ae2f7ebc5.jpg,Pleural thickening,abnormal
+39357,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0ae3eb69e2179773256718264fa199b4.jpg,No finding,normal
+5936,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d8b75d2a0acb6e0fa20ef05300b7e006.jpg,Pleural effusion,abnormal
+8865,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ef695c75dbf0fe8ffe113ffd78d10bfc.jpg,No finding,normal
+36094,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6bd1373894d31a553dda4cb60a41e1d8.jpg,No finding,normal
+2983,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0ce54f4ce3d60325c671cfc30b7307f8.jpg,No finding,normal
+9054,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/45e4a17c1e5246e303bc1b2dd372bbad.jpg,No finding,normal
+15660,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0a8df2eb98d3c1cec5200c9b2a6132f2.jpg,No finding,normal
+4318,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bdaace04fa79a60e8542a3b573288076.jpg,Pulmonary fibrosis,abnormal
+40434,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/369db0d6f98d2142f4f2cfbd06a3f2de.jpg,No finding,normal
+58142,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e2084ce46863db6a9f019c5cf0256706.jpg,No finding,normal
+37994,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/18380add550465c69aeebf7188c0f583.jpg,No finding,normal
+11640,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a2ca3716b1e7923e5f8e0fc6f8200509.jpg,Pulmonary fibrosis,abnormal
+13522,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4480579baea23011d76003c4c2b7c016.jpg,No finding,normal
+4504,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/c4a36b7b9d14a32c067f5dc2fad874b5.jpg,No finding,normal
+4671,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/00f2f97f74e086e1f82acc285ee4a5c5.jpg,Infiltration,abnormal
+12994,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ac2a615b3861212f9a2ada6acd077fd9.jpg,Pleural thickening,abnormal
+10514,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ec894538e2a26e90ccb20e4f1fa568e9.jpg,No finding,normal
+14440,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a0321542b6089703f2304ff25ff083ad.jpg,No finding,normal
+32465,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3ff22a602b26d804863daaf6b7230d47.jpg,Calcification,abnormal
+15551,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/aa12ea6652b3b8bea37df74e4e127e8f.jpg,Lung Opacity,abnormal
+1429,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/51b168d29879c8972aa29d9f31f4b00c.jpg,Pleural effusion,abnormal
+10330,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e42c3089f725d7a0e021107dcc847d53.jpg,No finding,normal
+21020,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5fa2e88f11dc8eb5527345e7ec577382.jpg,No finding,normal
+8698,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b80bc0fd0c5ecbbcb79fa0678fffcab4.jpg,No finding,normal
+32930,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/cc89ca7071e25eb72633ec8f0c542e5c.jpg,No finding,normal
+15580,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/804638e9e4b21d90bf768b24a4ac1249.jpg,No finding,normal
+2079,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/e55c810bac202a7eda8f17da59c3037f.jpg,No finding,normal
+9816,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/183015e171f5159d7e60d43578632a3f.jpg,Pleural thickening,abnormal
+5683,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/5a8b04bbb49b5883741d4b183182c661.jpg,No finding,normal
+3371,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/66a1a5d0239bd22d299a1e1333ed5d0b.jpg,ILD,abnormal
+5711,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6c9f39db91e306458bf6c5cbb9694697.jpg,No finding,normal
+11139,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b9e484fa14cf5877736daa59b2ce2b24.jpg,Pleural thickening,abnormal
+1775,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d3b82f17d58da80f02e2b0812606cee2.jpg,Lung Opacity,abnormal
+16320,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/088f38c1f4f9d953bd85bbc6fae73f67.jpg,No finding,normal
+12667,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9f7ac02c7456ab3178c7997e15cdce84.jpg,No finding,normal
+2476,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3527884ce43d577c1cc449fc0f17f646.jpg,Lung Opacity,abnormal
+793,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/492c436c00725c4c909ec6fbc9223b92.jpg,Nodule/Mass,abnormal
+32125,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/da95c308ecf6b869be4930aa124c0d7e.jpg,Nodule/Mass,abnormal
+3506,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/7b8f2d8c5d78ecf3a06b49e3f46e52f0.jpg,No finding,normal
+15041,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0fdd9e832730bf843067512577cf31cd.jpg,No finding,normal
+5331,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6ecf4d9fc47523ed028206ab33244f8c.jpg,No finding,normal
+28012,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9b962decc3b730467e74a8fbfaa0d953.jpg,Pleural effusion,abnormal
+12174,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1a39c8cd556ab64679d04d440466a2f5.jpg,Pleural thickening,abnormal
+1331,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a29792eee5ee65480c4537ce1fcfee24.jpg,No finding,normal
+23232,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/af201da8a5f8354c4c3291995d5cbafd.jpg,Atelectasis,abnormal
+5592,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/571ffeb5344b749ef4e99c75b8449a86.jpg,Pulmonary fibrosis,abnormal
+1184,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b7ce898bce636076cff5d2267500bc18.jpg,Pleural thickening,abnormal
+15145,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/b5eb86bdfcbce8d8536e608124d0f9ed.jpg,Pulmonary fibrosis,abnormal
+9092,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/0d3560aa72cf2176f272ae7ebe3c8bd6.jpg,No finding,normal
+3472,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/256b0ad89e73b03f15635e647c2bdb02.jpg,Pulmonary fibrosis,abnormal
+16960,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1e685beca49d62411bb69bc4ddf7ad11.jpg,Calcification,abnormal
+34717,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/670b0154323b07d62b9a047be3c12d1d.jpg,No finding,normal
+15722,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/52c85584532b1c23d447ab91ac1787ef.jpg,Pulmonary fibrosis,abnormal
+14852,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ff612a13f0bf475515259b986735c4e4.jpg,No finding,normal
+20208,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/bdbed4b89c69d22aa52e403e7ce8e2b9.jpg,No finding,normal
+29522,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f3c614f39c7d68c6971bfff50eefda78.jpg,No finding,normal
+35811,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3f1c30152e33358e5830f3b59bd0c41d.jpg,No finding,normal
+31136,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/fc4363ebce3a4aaa7c7d8c4796221c16.jpg,No finding,normal
+912,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/2c5d9c4fdfc633cb9a6af8ead0c45f19.jpg,Nodule/Mass,abnormal
+12737,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6f2977236faaf9a648422903ae9671a5.jpg,No finding,normal
+17941,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/237ce92f123e9d628f2e466906201256.jpg,No finding,normal
+32354,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/959612f16d4ab164853d66bde4ec1297.jpg,Pleural thickening,abnormal
+600,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/80ab0d18fb53f014a67b55ccaf83c0e4.jpg,No finding,normal
+25605,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/6081e75c58a050442a9ff3a5a2a51ffc.jpg,Pulmonary fibrosis,abnormal
+21562,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4301ac7c7e65827da8a62e27785f09e2.jpg,No finding,normal
+8916,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ab7c4fd74b4be8ccb135dad2ae7de2c3.jpg,No finding,normal
+21975,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/55e6279aac033f9a68822a4f84d765fc.jpg,No finding,normal
+38756,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/48e258ce61a71b27f93233e021024be8.jpg,Pleural thickening,abnormal
+7969,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f969ea3d13295c6d9d1ace69fc0fa218.jpg,No finding,normal
+6318,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/812ed04068507604227752b581ea7dbb.jpg,No finding,normal
+21577,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1c2edaf3f7c1867f34d76dafe8f53d80.jpg,Infiltration,abnormal
+24872,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/a7c0ab62b8c68897140a919aad35714b.jpg,No finding,normal
+33191,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9bf1a81e6aebf87a3aa8eeb569dc9457.jpg,No finding,normal
+2677,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/9ef084b09e407e4f8f00932602d1a88d.jpg,Infiltration,abnormal
+16922,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/826ef40d8bd63f54f66cc620ad52c8e9.jpg,Pulmonary fibrosis,abnormal
+10879,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/ad47b5fc69425a039a8d98cb9798d34a.jpg,No finding,normal
+9837,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/789af7544ed67e96acfbe0bcf660eb2b.jpg,No finding,normal
+34853,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/1e58fd00852763634630540c1d09621d.jpg,Calcification,abnormal
+9790,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/8169688849f800eed6dded6f1c10a352.jpg,Infiltration,abnormal
+2845,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/82877be2465c084b0b9bc186fc7f158f.jpg,Infiltration,abnormal
+8593,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/4e4cbf0f594c88fa0dd129485f159f41.jpg,No finding,normal
+4875,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/3aa1aa100d059de96740925373bbf8c7.jpg,No finding,normal
+23806,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/719ef3ece6314f7962ffe89cfd4cdb7f.jpg,Pulmonary fibrosis,abnormal
+357,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/f7f7736401b22c94a9d2b09425adeab9.jpg,No finding,normal
+5256,../0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/train/d846ef7992c9efb128ba7e3c25fa6a64.jpg,Pleural thickening,abnormal
