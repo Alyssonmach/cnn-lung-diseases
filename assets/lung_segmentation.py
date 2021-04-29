@@ -15,9 +15,10 @@ model = create_model("resnet34")
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = model.to(device)
 
-def segmentation(image, path = '/content/image.png'):
+def segmentation(image, path = 'image.png'):
 
-  matplotlib.image.imsave(path, image)
+  image = tf.keras.preprocessing.image.array_to_img(image)
+  tf.keras.preprocessing.image.save_img(path, image)
   image, mask = inference.inference(model, path, 0.2)
   #os.remove(path)
   for values_i in range(0, len(mask[0])):
