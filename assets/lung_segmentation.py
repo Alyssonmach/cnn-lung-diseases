@@ -9,8 +9,10 @@ from lungs_segmentation.pre_trained_models import create_model
 import lungs_segmentation.inference as inference
 import matplotlib.pyplot as plt
 import matplotlib
+import tensorflow as tf
+import os
 
-model = create_model("resnet34")
+model = create_model("resnet34", )
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = model.to(device)
@@ -20,7 +22,7 @@ def segmentation(image, path = 'image.png'):
   image = tf.keras.preprocessing.image.array_to_img(image)
   tf.keras.preprocessing.image.save_img(path, image)
   image, mask = inference.inference(model, path, 0.2)
-  #os.remove(path)
+  os.remove(path)
   for values_i in range(0, len(mask[0])):
     for values_j in range(0, len(mask[0])):
       if (mask[0, values_i, values_j] + mask[1, values_i, values_j]) == 0:
