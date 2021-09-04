@@ -1,9 +1,38 @@
-cff-version: 1.0.0
-message: "Se você usa esse projeto, por favor cite em seus trabalhos."
-authors:
-  - family-names: Machado, Araújo, Veloso
-    given-names: Alysson, Leo, Luciana
-    orcid: https://orcid.org/0000-0003-3025-9382
-title: "Convolutional Neural Networks: Lung Diseases"
-version: 1.0.0
+# YAML 1.2
+---
+abstract: |
+    "A radiologia depende da extração de informações em imagens, sendo uma
+    {\'a}rea de aplicação natural para aprendizado profundo, cujos modelos se
+    destacam sobretudo em tarefas de Visão Computacional. Destarte,
+    investiga-se a utilização de redes convolucionais para auxiliar
+    radiologistas no diagnóstico dos distúrbios pulmonares: atelectasia,
+    derrame pleural, pneumotórax, consolidação, edema, lesão e opacidade
+    pulmonar. São exploradas arquiteturas renomadas de redes convolucionais e
+    comitês de classificação, produzindo bons resultados na classificação
+    multirrótulo de radiografias, com acur{\'a}cia de 79,54\%. Em an{\'a}lise
+    subsequente, os mapas de ativação dos modelos correlacionaram
+    positivamente com anotações realizadas por radiologistas em exames de uma
+    base de dados independente."
+authors: 
+  -
+    family-names: Machado
+    given-names: Alysson
+    orcid: "https://orcid.org/https://orcid.org/0000-0003-3025-9382"
+  -
+    family-names: " Veloso"
+    given-names: Luciana
+  -
+    family-names: "Araújo"
+    given-names: Leo
+cff-version: "1.1.0"
 date-released: 2021-09-04
+keywords: 
+  - "Classificação Multirrótulo"
+  - "Redes Neurais Convolucionais"
+  - "Distúrbios Pulmonares"
+  - "Visão Computacional"
+message: "Se você usa esse projeto, por favor cite em seus trabalhos."
+repository-code: "https://github.com/Alyssonmach/cnn-lung-diseases"
+title: "CNN - Lung Diseases"
+version: "1.0.0"
+...
