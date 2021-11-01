@@ -6,18 +6,4 @@ Essa pesquisa demonstra que a utilização das Redes Neurais Convolucionais  é 
 
 O  presente  trabalho  foi  realizado  com  apoio  do  Conselho  Nacional  de  Desenvolvimento  Científico  e  Tecnológico (CNPq), através do programa PIBIC/CNPq-UFCG, e também pela  Coordenação  de  Aperfeiçoamento  de  Pessoal  de  Nível Superior (CAPES), por meio do processo 88881.507204/2020-01, aprovado no Edital CAPES no âmbito do Edital Emergencial Nº 12/2020. Agradeço a professora Luciana Veloso e ao mestrando Leo Araújo por suas imensas contribuições nesse trabalho.
 
-### Resultados Coletados - Experimento 5
-
-|Modelos|Acurácia|Precisão|Sensibilidade|Inferência(ms)|
-|:-----:|:------:|:------:|:-----------:|:------------:|
-|DenseNet121|72,01%|72,51%|72,01%|24,77|
-|InceptionV3|72,97%|73,48%|72,97%|21,08|
-|Xception|72,07%|72,48%|72,07%|31,64|
-|InceptionResnetV2|71,34%|72,93%|71,34%|43,50|
-|ResNet101V2|72,80%|73,67%|72,80%|45,00|
-|VGG16|70,47%|72,05%|70,47%|70,47|
-|MobileNetV2|70,26%|71,14%|70,26%|8,99|
-|Média Ponderada|77,20%|77,47%|77,20%|239,46|
-|Voto da Maioria|79,54%|80,21%|79,54%|241,74|
-
-### Artigo do trabalho
+### [Artigo do trabalho - SBRT 2021](https://biblioteca.sbrt.org.br/articlefile/2915.pdf)
