@@ -1,0 +1,46 @@
+,Path,Sex,Age,Frontal/Lateral,AP/PA,Label
+98563,images/image0.jpg,Masculino,22,Frontal,Póstero-anterior,Sem ocorrências
+31653,images/image1.jpg,Masculino,25,Frontal,Póstero-anterior,Sem ocorrências
+116329,images/image2.jpg,Masculino,29,Frontal,Póstero-anterior,Sem ocorrências
+131822,images/image3.jpg,Feminino,27,Frontal,Póstero-anterior,Sem ocorrências
+15846,images/image4.jpg,Feminino,55,Frontal,Ântero-posterior,Sem ocorrências
+120091,images/image5.jpg,Masculino,77,Frontal,Ântero-posterior,Opacidade Pulmonar
+115267,images/image6.jpg,Masculino,75,Frontal,Ântero-posterior,Opacidade Pulmonar
+223319,images/image7.jpg,Masculino,86,Frontal,Ântero-posterior,Opacidade Pulmonar
+223161,images/image8.jpg,Masculino,74,Frontal,Ântero-posterior,Opacidade Pulmonar
+173909,images/image9.jpg,Feminino,82,Frontal,Ântero-posterior,Opacidade Pulmonar
+213816,images/image10.jpg,Feminino,57,Frontal,Ântero-posterior,Lesão Pulmonar
+200613,images/image11.jpg,Masculino,46,Frontal,Ântero-posterior,Lesão Pulmonar
+134984,images/image12.jpg,Masculino,71,Frontal,Ântero-posterior,Lesão Pulmonar
+207552,images/image13.jpg,Masculino,46,Frontal,Ântero-posterior,Lesão Pulmonar
+176929,images/image14.jpg,Masculino,80,Frontal,Ântero-posterior,Lesão Pulmonar
+42797,images/image15.jpg,Feminino,56,Frontal,Ântero-posterior,Edema Pulmonar
+103865,images/image16.jpg,Masculino,60,Frontal,Ântero-posterior,Edema Pulmonar
+207735,images/image17.jpg,Masculino,63,Frontal,Ântero-posterior,Edema Pulmonar
+208146,images/image18.jpg,Feminino,58,Frontal,Ântero-posterior,Edema Pulmonar
+176800,images/image19.jpg,Masculino,46,Frontal,Ântero-posterior,Edema Pulmonar
+51924,images/image20.jpg,Masculino,46,Frontal,Ântero-posterior,Consolidação Pulmonar
+221638,images/image21.jpg,Masculino,59,Frontal,Ântero-posterior,Consolidação Pulmonar
+187149,images/image22.jpg,Masculino,76,Frontal,Ântero-posterior,Consolidação Pulmonar
+120138,images/image23.jpg,Feminino,43,Frontal,Ântero-posterior,Consolidação Pulmonar
+209554,images/image24.jpg,Masculino,63,Frontal,Ântero-posterior,Consolidação Pulmonar
+141224,images/image25.jpg,Masculino,77,Frontal,Ântero-posterior,Pneumonia
+109973,images/image26.jpg,Feminino,24,Frontal,Póstero-anterior,Pneumonia
+140638,images/image27.jpg,Feminino,89,Frontal,Ântero-posterior,Pneumonia
+126683,images/image28.jpg,Masculino,83,Frontal,Ântero-posterior,Pneumonia
+92081,images/image29.jpg,Masculino,58,Frontal,Póstero-anterior,Pneumonia
+129175,images/image30.jpg,Feminino,90,Frontal,Póstero-anterior,Atelectasia Pulmonar
+50623,images/image31.jpg,Masculino,51,Frontal,Ântero-posterior,Atelectasia Pulmonar
+81816,images/image32.jpg,Feminino,79,Frontal,Póstero-anterior,Atelectasia Pulmonar
+113714,images/image33.jpg,Masculino,50,Frontal,Ântero-posterior,Atelectasia Pulmonar
+92215,images/image34.jpg,Feminino,75,Frontal,Póstero-anterior,Atelectasia Pulmonar
+5631,images/image35.jpg,Feminino,59,Frontal,Póstero-anterior,Pneumotórax 
+70293,images/image36.jpg,Masculino,18,Frontal,Póstero-anterior,Pneumotórax 
+89393,images/image37.jpg,Feminino,88,Frontal,Póstero-anterior,Pneumotórax 
+161688,images/image38.jpg,Feminino,66,Frontal,Ântero-posterior,Pneumotórax 
+219545,images/image39.jpg,Masculino,28,Frontal,Ântero-posterior,Pneumotórax 
+75160,images/image40.jpg,Masculino,38,Frontal,Póstero-anterior,Efusão Pleural
+56397,images/image41.jpg,Masculino,50,Frontal,Póstero-anterior,Efusão Pleural
+163774,images/image42.jpg,Masculino,60,Frontal,Ântero-posterior,Efusão Pleural
+104174,images/image43.jpg,Feminino,64,Frontal,Póstero-anterior,Efusão Pleural
+197602,images/image44.jpg,Feminino,59,Frontal,Ântero-posterior,Efusão Pleural
