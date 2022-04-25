@@ -127,35 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-average-weights-testing/average-weights.ipynb
-average-weights-testing/mnist-data1.ipynb
-average-weights-testing/mnist-data1/saved_model.pb
-average-weights-testing/mnist-data1/variables/variables.data-00000-of-00001
-average-weights-testing/mnist-data1/variables/variables.index
-average-weights-testing/mnist-data2.ipynb
-average-weights-testing/mnist-data2/saved_model.pb
-average-weights-testing/mnist-data2/variables/variables.data-00000-of-00001
-average-weights-testing/mnist-data2/variables/variables.index
-datasets/*
-testes/*
-jupyter-notebooks/transferlearning_weights.hdf5
-0-datasets/montgomery-shenzen/montgomery-shenzen-files.zip
-0-datasets/montgomery-shenzen/arquivos-descompactados/ChinaSet_AllFiles/*
-0-datasets/montgomery-shenzen/arquivos-descompactados/Montgomery/*
-0-datasets/nih/images_01.tar.gz
-0-datasets/nih/images_02.tar.gz
-0-datasets/nih/images_03.tar.gz
-0-datasets/nih/images_04.tar.gz
-0-datasets/nih/images_05.tar.gz
-0-datasets/nih/images_06.tar.gz
-0-datasets/nih/images_07.tar.gz
-0-datasets/nih/images_08.tar.gz
-0-datasets/nih/images_09.tar.gz
-0-datasets/nih/images_10.tar.gz
-0-datasets/nih/images_11.tar.gz
-0-datasets/nih/images_12.tar.gz
-0-datasets/nih/arquivos-descompactados/file01/images/*
-0-datasets/nih/arquivos-descompactados/file02/images/*
-0-datasets/nih/arquivos-descompactados/file03/images/*
-0-datasets/vinbigdata/vinbigdata-files.zip
-0-datasets/vinbigdata/arquivos-descompactados/vinbigdata/*
