@@ -1,15 +1,15 @@
-# Aprendizado Profundo aplicado à Radiologia
+# Deep Learning applied to Radiology
 
 Este repositório contém uma investigação sobre o uso de algoritmos de Aprendizado Profundo em tarefas de diagnóstico radiológico. Em particular, o foco é a classificação de distúrbios pulmonares em radiografias de tórax, usando técnicas Redes Neurais Convolucionais e Processamento de Imagens Digitais.
 
-### Contexto
+### Context
 
-A radiologia é uma especialidade médica que depende da extração de informações em imagens para diagnosticar doenças e orientar o tratamento dos pacientes. Essa tarefa pode ser desafiadora, pois requer uma grande quantidade de conhecimento especializado e experiência prática. Felizmente, o Aprendizado Profundo oferece uma maneira poderosa de automatizar a análise de imagens e fornecer aos médicos informações valiosas para ajudar no diagnóstico.
+Radiology is a medical specialty that relies on extracting information from images to diagnose diseases and guide the treatment of patients. This task can be challenging as it requires a great deal of specialized knowledge and practical experience. Fortunately, Deep Learning offers a powerful way to automate image analysis and provide doctors with valuable information to help with diagnosis.
 
-### Objetivo
+### Goal
 
-Este repositório tem como objetivo explorar o uso de modelos de Redes Neurais Convolucionais para classificar distúrbios pulmonares em radiografias de tórax. Em particular, os distúrbios estudados são Opacidade, Atelectasia, Pneumotórax e Efusão Pleural. Para isso, são utilizadas técnicas de Processamento de Imagens Digitais, reutilização de arquiteturas de Redes Neurais Convolucionais e Comitês de Classificação.
+This repository aims to explore the use of Convolutional Neural Network models to classify lung disorders on chest X-rays. In particular, the disorders studied are Opacity, Atelectasis, Pneumothorax and Pleural Effusion. For this, Digital Image Processing techniques, reuse of Convolutional Neural Network architectures and Classification Committees are used.
 
-### Resultados
+### Results
 
-Os modelos construídos apresentam uma Acurácia de 87,77%, Precisão de 91,96%, Sensibilidade de 90,24% e F1-Score de 91,07% na classificação multirrótulo das radiografias de tórax. Além disso, é realizada uma análise de interpretabilidade dos modelos, utilizando algoritmos de Mapa de Ativação para extrair informações visuais úteis e comparar os resultados com exames laudados por radiologistas.
+The models constructed present an Accuracy of 87.77%, Accuracy of 91.96%, Sensitivity of 90.24% and F1-Score of 91.07% in the multilabel classification of chest X-rays. In addition, an interpretability analysis of the models is performed, using Activation Map algorithms to extract useful visual information and compare the results with examinations reported by radiologists.
